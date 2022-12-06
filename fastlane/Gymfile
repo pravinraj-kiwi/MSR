@@ -12,10 +12,10 @@ clean(true)
 output_directory("./build")
 output_name("Contributor")
 export_options({
-  method: "ad-hoc",
-  iCloudContainerEnvironment: 'Production',
+  method: "development",
+  iCloudContainerEnvironment: 'Development',
   provisioningProfiles: { 
-	"com.measureprotocol.contributor.staging2" => "measureStage2Adhoc",
-	"com.measureprotocol.contributor.staging2.jobwidget"  => "jobWidgetAdhoc"
+	"com.measureprotocol.contributor.staging2" => "devStageProfile",
+	"com.measureprotocol.contributor.staging2.jobwidget"  => "jobWidgetDevStaging"
 	}
 })
