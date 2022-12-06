@@ -20,7 +20,8 @@ jobs:
         uses: sinoru/actions-setup-keychain@v1.0
       - name: fastlane install
         run:  sudo gem install fastlane
-        
+      - name: re-pod
+        run: cd ios && pod deintegrate && pod install && cd ..  
       - name: fastlane build
         run: fastlane gym
 
