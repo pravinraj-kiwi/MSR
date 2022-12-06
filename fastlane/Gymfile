@@ -16,7 +16,7 @@ export_options({
   iCloudContainerEnvironment: 'Production',
   team: "22Z5L8X4M3",
   signingStyle: "manual",
-  signingCertificate: "iPhone Distribution"
+  signingCertificate: "iPhone Distribution",
   provisioningProfiles: { 
 	"com.measureprotocol.contributor.staging2" => "measureStage2Adhoc.mobileprovision",
 	"com.measureprotocol.contributor.staging2.jobwidget"  => "jobWidgetAdhoc.mobileprovision"
