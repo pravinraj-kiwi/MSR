@@ -18,9 +18,9 @@ jobs:
 
       - name: create macos keychain
         uses: sinoru/actions-setup-keychain@v1.0
-
-      - name: install fastlane & plugins
-        run: bundle install
+      
+      - name: fastlane matching
+        run: fastlane match
         
       - name: fastlane build
         run: fastlane ios beta
