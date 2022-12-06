@@ -20,8 +20,6 @@ jobs:
         uses: sinoru/actions-setup-keychain@v1.0
       - name: fastlane install
         run:  sudo gem install fastlane
-      - name: fastlane matching
-        run: fastlane match
         
       - name: fastlane build
         run: fastlane ios beta
