@@ -19,6 +19,8 @@ platform :ios do
   desc "Upload build to TestFlight"
   lane :beta do
     increment_build_number
+    get_certificates    
+    get_provisioning_profile
     build_app
     upload_to_testflight
   end
