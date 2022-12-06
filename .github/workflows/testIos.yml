@@ -22,7 +22,7 @@ jobs:
         run:  sudo gem install fastlane
         
       - name: fastlane build
-        run: fastlane ios beta
+        run: fastlane gym
 
       # upload failure log if fails
       - uses: actions/upload-artifact@v1
