@@ -1,0 +1,29 @@
+name: Example iOS Build
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-ios:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: configure ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+
+      - name: create macos keychain
+        uses: sinoru/actions-setup-keychain@v1.0
+
+      - name: install fastlane & plugins
+        run: bundle install
+      
+      - name: homebrew & watchman
+        run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" && brew update && brew install watchman
+
+      - name: yarn install
+        run: yarn install
