@@ -1,0 +1,585 @@
+
+"Jobs" = "Tarefas";
+"Feed" = "Lista de Tarefas";
+"GET STARTED" = "INICIAR";
+"Video Tasks" = "Tarefas de vídeo";
+"Video capture everyday apps for premium rewards." = "Grave vídeos do seu use de aplicativos comuns para recompensas premium";
+"Redeem Easily" = "Troque facilmente";
+"Earn points and redeem them for gift cards from 40+ top brands." = "Ganhe pontos e troque-os por vales-presente de mais de 40 marcas importantes.";
+"Data Control & Privacy" = "Controle de dados e privacidade";
+"You're in control. If you don't like the request, you can simply decline." = "Você está em controle. Se não gosta da tarefa, pode simplesmente recusa-lo.";
+"Earn while you chill" = "Ganhe enquanto relaxa";
+"Refer friends to the MSR app and you get a bonus 20% of everything they earn - It’s only fair!" = "Convide os seus amigos para o aplicativo MSR e receberá um bônus de 20% de tudo o que eles ganham!";
+"Next" = "Próximo";
+"Welcome to Measure" = "Bem-vindo à Measure";
+"Complete the checklist items below to earn your first MSR and start qualifying for surveys and other data jobs." = "Complete os itens da lista de em baixo para ganhar os seus primeiros MSR e começar a se qualificar para questionários e outras tarefas de dados.";
+"here" = "aqui";
+"non-compressed" = "não compactado";
+"compressed" = "comprimido";
+"See Result" = "Veja o resultado";
+"Validate your email" = "Valide o seu e-mail";
+"Validate your phone" = "Valide o seu telefone";
+"Add basic profile data" = "Adicione dados básicos de \nperfil";
+"Validate your location" = "Valide a sua localização";
+"Your country of residence must match your current location." = "O seu país de residência deve corresponder à sua localização atual.";
+"Contact support for help" = "Contate o suporte para obter ajuda";
+"We were unable to validate your phone number." = "Não foi possível validar o seu número de telefone.";
+"START" = "COMEÇAR";
+"1." = "1.";
+"2." = "2.";
+"3." = "3.";
+"4." = "4.";
+"REDEEM" = "TROCAR PONTOS";
+"Personal Details" = "Detalhes pessoais";
+"Change Password" = "Alterar senha";
+"Refer a Friend" = "Convide um amigo";
+"& earn every time they do!" = "e ganhe cada vez que eles o fizerem!";
+"Logout" = "Sair";
+"Delete Account" = "Deletar conta";
+"App Version" = "Versão do aplicativo";
+"Terms of Use" = "Termos de Uso";
+"FAQ" = "Perguntas frequentes";
+"Privacy Policy" = "Política de Privacidade";
+"Email Support" = "Suporte por Email";
+"Dump Profile" = "Perfil de despejo";
+"Delete Random Profile Items" = "Excluir itens de perfil aleatórios";
+"Run Profile Maintenance" = "Executar manutenção de perfil";
+"Run Network Vote" = "Executar votação de rede";
+"Run Inbox Support" = "Executar suporte para caixa de entrada";
+"Test AC Onboard" = "Testar onboarding AC";
+"Test Broccoli Onboard" = "Testar onboarding Broccoli";
+"Test Gamer Onboard" = "Testar onboarding Gamer";
+"Close" = "Fechar";
+" Survey Partners" = "Parceiros de pesquisa de mercado";
+"Edit" = "Editar";
+"I didn't receive an email" = "Não recebi o email";
+"Email" = "E-mail";
+"Terms & Conditions" = "Termos e Condições";
+
+"website for detail." = "Site para detalhes.";
+"Resend email" = "Reenviar email";
+"Sent!" = "Enviado!";
+"Skip for now" = "Saltar por agora";
+"Cancel" = "Cancelar";
+"Age Not Met" = "Idade não cumprida";
+"Continue" = "Prosseguir";
+"Redeeming..." = "Resgatando...";
+"Error" = "Erro";
+" My Data" = " Os Meus Dados";
+"My Data" = "Os Meus Dados";
+"NEW" = "NOVA";
+"basic" = "básico";
+"Skip to next" = "Slatar para o próximo";
+"Exit Job?" = "Sair da Tarefa?";
+"OK" = "OK";
+"Enter Value" = "Insira o valor";
+"Enter Date" = "Insira a data";
+"Start job" = "Iniciar Tarefa";
+"Support" = "Apoio";
+" Back" = "Voltar";
+"or" = "ou";
+"Terms of Service" = "Termos de serviço";
+"Accessibility" = "Acessibilidade";
+"Contact" = "Contato";
+"Privacy" = "Privacidade";
+"Survey" = "Questionário";
+"Sign In" = "Entrar";
+"Sign in to your account:" = "Faça login na sua conta:";
+"Forgot your password?" = "Esqueceu sua senha?";
+"New here? " = "Novo aqui?";
+"Sign-in failed" = "O log-in falhou";
+
+"If you’re new to Measure, go ahead and create an account:" = "Se você é novo na Measure, crie uma conta:";
+"Create a new account" = "Criar uma conta nova";
+"Sign in to existing account" = "Faça login numa conta existente";
+"I am 16+ years of age and agree to the Terms & Conditions and Privacy Policy" = "Tenho mais de 16 anos e concordo com os Termos e Condições e a Política de Privacidade";
+"The provided email is registered with PayPal and I agree to the processing time set out above" = "O e-mail fornecido está registado no PayPal e eu concordo com o tempo de processamento estabelecido acima";
+
+"PayPal charges a fee for receiving payments, see their website for detail." = "A PayPal cobra uma taxa pelo recebimento de pagamentos, consulte o Site para detalhes.";
+"First, enter some basic details:" = "Primeiro, insira alguns detalhes básicos:";
+"Sorry" = "Desculpe";
+"Send link" = "Enviar Link";
+"Yes" = "Sim";
+"Sorry, something went wrong" = "Desculpe, algo deu errado";
+"of" = "de";
+"The current password you entered is incorrect" = "A senha atual que você digitou está incorreta";
+"The new passwords you entered do not match" = "As novas senhas que você digitou não coincidem";
+"Please enter a value for" = "Insira um valor para";
+"validationTimeOut" = "validationTimeOut";
+"Create an account" = "Crie a sua conta aqui";
+"Create an Account" = "Crie a sua conta aqui";
+
+"App Version " = "Versão do aplicativo ";
+"Update" = "Atualizar";
+"Create Account" = "Criar Conta";
+"If you have a referral code please enter it now." = "Se você tiver um código de referência, insira-o agora.";
+"Your current password is incorrect." = "A sua senha atual está incorreta.";
+"MORE" = "MAIS";
+"registered with PayPal" = "registado no PayPal";
+"MSR successfully authorized" = "MSR autorizado com sucesso";
+"MSR will collect your tweets and tweets you liked." = "MSR irá registar os seus tweets e tweets de que você gostou.";
+"MSR failed to authorize with Twitter" = "MSR falhou ao autorizar com o Twitter";
+"Please review instructions and try again." = "Reveja as instruções e tente novamente.";
+"Finish" = "Terminar";
+"Wallet" = "Carteira";
+"Settings" = "Definições";
+"App" = "Aplicativo";
+"Testing" = "Testando";
+"Personal Details" = "Detalhes pessoais";
+"Change Password" = "Alterar a senha";
+"Edit Details" = "Editar Detalhes";
+"Sorry, this item has an invalid URL and can't be opened." = "Desculpe, este item tem um URL inválido e não pode ser aberto.";
+"Bad URL" = "URL ruim";
+"Your current balance:" = "Seu saldo atual:";
+"Please enter a valid email address" = "Por favor insira um endereço de e-mail válido";
+"Please enter a valid date" = "Por favor insira uma data válida";
+"Please enter a valid value" = "Por favor, insira um valor válido";
+"Validation code is incorrect." = "O código de validação está incorreto.";
+"Validation code resent." = "Código de validação reenviado.";
+"Sorry, something went wrong." = "Desculpe, algo deu errado.";
+"We sent a six-digit code to you via text message on " = "Enviámos um código de seis dígitos para si por mensagem de texto em ";
+"Sorry, PhoneNumber cannot be blank." = "Desculpe, Número de Telefone não pode ficar em branco.";
+"Invalid phone number for selected country." = "Número de telefone inválido para o país selecionado.";
+"Phone number is being used by another user" = "O número de telefone está sendo usado por outro usuário";
+"Resent, check your inbox" = "Reenviado, verifique a sua caixa de entrada";
+"I still didn't receive anything" = "Ainda não recebi nada";
+"Allow Measure" = "Permitir a Measure";
+"Please grant Measure permission to send you notifications." = "Por favor, conceda permissão á Measure para lhe enviar notificações";
+"Open Settings" = "Abrir configurações";
+"Redeeming for AC Points..." = "Trocar por pontos AC ...";
+"There was an error redeeming for" = "Ocorreu um erro ao trocar os pontos para";
+"Please try again later." = "Por favor, tente novamente mais tarde.";
+"Easy to understand" = "Fácil de entender";
+"Simple" = "Simples";
+"Fair payment" = "Pagamento justo";
+"Short and efficient" = "Curto e eficiente";
+"Interesting content" = "Conteúdo interessante";
+"Fun" = "Divertido";
+"Fast-loading" = "Carregamento rápido";
+"Great design" = "Ótimo design";
+"Too long" = "Demasiado longo";
+"Payment too small" = "Pagamento muito pequeno";
+"Slow loading" = "Carregamento lento";
+"Boring" = "Chato";
+"Complicated" = "Complicado";
+"Not mobile-friendly" = "Não compatível com dispositivos móveis";
+"Repetitive questions" = "Perguntas repetitivas";
+"Errors" = "Erros";
+"First name" = "Primeiro nome";
+"Last name" = "Sobrenome";
+"Date of birth" = "Data de nascimento";
+"Password" = "Senha";
+"Password, again" = "Senha, de novo";
+"Current Password" = "Senha atual";
+"New Password" = "Nova Senha";
+"Confirm Password" = "Confirme a Senha";
+"Referral Code" = "Código de Referencia";
+"PayPal Email" = "Email da Paypal";
+"Confirm PayPal Email" = "Confirme o e-mail da PayPal";
+"John" = "Zé";
+"Doe" = "Ninguém";
+"DD / MM / YYYY" = "DD / MM / AAAA";
+"••••••••••••" = "••••••••••••";
+"Optional" = "Opcional";
+"example@email.com" = "exemplo@email.com";
+"It looks like you already have an account. Why don't you try logging in?" = "Parece que você já tem uma conta. Por que não tenta fazer login nela?";
+"Unable to complete your request at the moment" = "Não foi possível concluir sua solicitação neste momento";
+"Please enter a valid email address" = "Por favor insira um endereço de e-mail válido";
+"The passwords must match" = "As senhas devem corresponder";
+"Please enter a valid date" = "Por favor insira uma data válida";
+"Powered by Measure" = "Powered by Measure";
+"History" = "História";
+"Not Available Yet" = "Não disponível (ainda)";
+
+
+"Redemption of MSR is not available until you've finished setting up your account." = "Não  pode trocar os seus pontos MSR até que termine de configurar a sua conta.";
+"Account on Hold" = "Conta suspensa";
+"Redemption of MSR is not available while your account is on hold." = "Não  pode trocar os seus MSR enquanto a sua conta estiver suspensa.";
+"Redeem Balance" = "Resgatar saldo";
+"Current balance:" = "Saldo atual:";
+"Choose an amount to redeem:" = "Escolha um valor para resgatar:";
+"Minimum balance of" = "Saldo mínimo de";
+
+"required to redeem. \n \n" = "necessário para resgatar. \n \n";
+"After clicking an amount, you'll receive an email that allows you to select from the gift cards below." = "Depois de clicar num valor, você receberá um e-mail onde pode selecionar um dos vales-presente em baixo.";
+"Gift Card" = "Vale-Presente";
+"Congratulations! You redeemed" = "Parabéns! Você trocou os seus pontos";
+"Thank you! Enjoy a 20% bonus" = "Obrigado! Desfrute de um bônus de 20%";
+
+"Download the MSR app and get paid to do data jobs on your phone." = "Baixe o aplicativo MSR e receba dinheiro para completar tarefas de dados no seu celular.";
+"INVITE" = "CONVIDAR";
+"MSR for every friend that installs the MSR app and completes the setup of their account." =  "MSR por cada amigo que instale o aplicativo MSR e conclua a configuração da sua conta.";
+"Earn" = "Ganhe";
+"invitations remaining" = "convites restantes";
+"I earn with the MSR app by sharing data and completing surveys." = "Eu ganho com o aplicativo MSR compartilhando dados e respondendo a questionarios.";
+" Use my code" = " Use o meu código";
+"or my link to DOUBLE your welcome bonus! " = "ou o meu link para DOBRAR o seu bônus de boas-vindas! ";
+"Subject to MSR’s Terms and Conditions" = "Sujeito aos Termos e Condições da MSR";
+"Terms and Conditions" = "Termos e Condições";
+"Your invite code has been copied to clipboard." = "Seu código-referência foi copiado para a área de transferência.";
+"Download MSR App" = "Baixe o aplicativo MSR";
+"Today" = "Hoje";
+"Yesterday" = "Ontem";
+"This Month" = "Este mês";
+
+"completed job" = "tarefas concluída";
+"completed jobs" = "tarefas concluídas";
+"All jobs completed" = "Todos as Tarefas concluídas";
+"We're searching the galaxy for more." = "Estamos procurando mais tarefas para si.";
+"Nice work, we'll find some more." = "Bom trabalho, encontraremos mais alguns.";
+"We're tracking down some more." = "Estamos procurando mais.";
+"Take five, we're looking for more." = "Está quase, estamos procurando mais.";
+"Nice work!" = "Bom trabalho!";
+"Your account is ready — we'll start searching for jobs that match your profile." = "A sua conta está pronta - já começamos a procurar tarefas que correspondam ao seu perfil.";
+
+
+"Turn on notifications" =  "Ative as notificações";
+"Validate your email address" = "Valide o seu endereço de e-mail";
+"Sorry, you must be over 16" = "Desculpe, você deve ter mais de 16 anos";
+"Hey there!" = "Ei!";
+
+"Job completed" = "Tarefa concluído";
+"Browse the latest jobs" = "Procure as tarefas mais recentes";
+"Manage your data" = "Gerencie os seus dados";
+"Redeem MSR" = "Troque MSR";
+"All done!" = "Tudo feito!";
+"Forgot your password?" = "Esqueceu sua senha?";
+"Email sent" = "Email enviado";
+"An error occurred" = "Ocorreu um erro";
+"Your account is on hold" = "A sua conta está suspensa";
+"We'll send you notifications only when you qualify for new data jobs and get paid for those you complete." =  "Enviaremos notificações apenas quando você se qualificar para novas tarefas de dados ou for pago por aqueles que concluiu.";
+
+"We've sent an email to the address you entered — go to your inbox now and click on the link to continue." = "Enviámos um e-mail para o endereço que você disponibilizou - verifique a sua caixa de entrada e clique nesse link para continuar.";
+"This app is only available to users who are 16 years of age or older." = "Este aplicativo so está disponível para usuários com pelo menos 16 anos.";
+
+"Before we get started, please tell us just a bit more about yourself, to help us tailor the Measure experience just for you." = "Antes de começarmos, conte-nos um pouco sobre si para nos ajudar a personalizar a sua experiência da Measure.";
+
+"Nice work adding to your profile." = "Bom trabalho com essas adições ao seu perfil.";
+"Nice work completing that job." = "Parabens por concluir essa tarefa.";
+"In your feed you'll find a list of survey jobs and messages tailored to your profile." = "No seu feed, encontrará uma lista de tarefas de pesquisa de mercado e mensagens apropriadas para o seu perfil.";
+
+"Click on the categories below to add profile data and qualify for jobs." = "Clique nas categorias em baixo para adicionar dados de perfil, para que se qualifique para mais tarefas.";
+
+"Your redemption order is being finalized. You'll receive an email shortly with details." = "Seu pedido de resgate está sendo finalizado. Você receberá um e-mail em breve com os detalhes.";
+
+
+
+"Enter your email address and we'll send you a password reset link." = "Digite o seu endereço de e-mail e enviaremos um link para alterar a sua senha.";
+
+"An email with a reset link is on the way. Check your inbox and follow the instructions." = "Um e-mail com um link de alteração está a caminho. Verifique a sua caixa de entrada e siga as instruções.";
+
+"Sorry, we weren't able to load the data you requested right now." = "Pedimos desculpa, não foi possível carregar os dados solicitados neste momento.";
+"Sorry, we weren't able to process your request right now." = "Pedimos descupla, não foi possível processar a sua solicitação neste momento.";
+
+"Your account has been marked as a duplicate and put on hold. If you believe this is in error, contact support and we'll work with you to resolve it." = "A sua conta foi sinalizada como duplicada, e está suspensa. Se acredita que seja um erro, entre em contato com o apoio e trabalharemos consigo para resolver o problema.";
+
+"Stay notified" = "Mantenha-se notificado";
+"Resend email" = "Reenvie email";
+"Let's begin" = "Vamos começar";
+"Done" = "Feito";
+"Get started" = "Iniciar";
+"Go back" = "Voltar";
+"Try again" = "Tente novamente";
+"Refresh account" = "Atualizar conta";
+
+
+"Are you sure you want to redeem {{AMOUNT}} using {{MSR}}?" = "Tem a certeza que quer trocar {{VALOR}} usando {{MSR}}?";
+"Are you sure you want to redeem {{TYPE}} using {{MSR}}?" = "Tem a certeza que quer trocar {{TIPO}} usando {{MSR}}?";
+
+
+
+"Redeem your MSR points:" = "Troque os seus pontos MSR:";
+"Redeem" = "Trocar";
+"Want more MSR points?" = "Quer mais pontos MSR?";
+"Earn 20% of what your friends earn" = "Ganhe 20% do que ganham os seus amigos";
+"Every time your friends complete a task you will be rewarded 20% of what they earn as a bonus on us!" = "Cada vez que eles completam uma tarefa, você será recompensado com 20% do que eles ganham como um bônus!";
+"YOUR CODE" = "SEU CÓDIGO";
+"SHARE" = "COMPARTILHAR";
+"Decline offer" = "Recusar oferta";
+"Enter your phone number to receive a validation code via text message." = "Digite o seu número de telefone para receber um código de validação por mensagem de texto.";
+"Country" = "País";
+"Phone Number" = "Número de telefone";
+"Send code" = "Enviar código";
+"Enter the code" = "Digite o código";
+"Didn’t receive a code" = "Não recebi um código";
+"Resend code" = "Reenviar código";
+"Validate" = "Validar";
+
+
+"Contact support" = "Contate o apoio";
+"Having Trouble?" = "Esta com problemas?";
+"Phone validated" = "Telefone validado";
+"Your phone number is now connected to your Measure account." = "Seu número de telefone está conectado à sua conta da Measure.";
+"👋 Welcome to My Data" = "👋 Bem-vindo aos Meus Dados";
+"Before we begin, let’s see why this screen is important for earning." = "Antes de começarmos, vamos ver porque é que este ecrã é importante para si.";
+"💡 Build your profile" = "💡 Construa o seu perfil";
+"Use the tools on My Data to build and manage your profile." = "Use as ferramentas em Os Meus Dados para construir e gerenciar o seu perfil.";
+"✨ Fill out profile surveys" = "✨ Preencha os questionários de perfil";
+"Your data is encrypted and used to match you to relevant jobs." = "Os seus dados são criptografados e usados para encontrar tarefas relevantes.";
+"💰 Connect to other services" = "💰 Conecte-se a outros serviços";
+"Validate your profile and add different job types with these tools." = "Valide o seu perfil e adicione diferentes tipos de tarefas com estas ferramentas.";
+"Got it!" = "Entendi!";
+"Connected Data" = "Dados Conectados";
+"Connect to data sources and partners." = "Conecte-se a fontes de dados e parceiros.";
+"Profile Validation" = "Validação de Perfil";
+"Survey Partners" = "Parceiros de pesquisa de mercado";
+"Are you on LinkedIn?" = "Você está no LinkedIn?";
+"Are you on facebook?" = "Você está no Facebook?";
+"No" =  "Não";
+
+"Please enter a valid email address" = "Por favor insira um endereço de e-mail válido";
+"Please enter your first name" = "Por favor insira o seu primeiro nome";
+"Please enter your last name" = "Por favor insira o seu sobrenome";
+"Please enter your first and last name" = "Por favor, insira o seu primeiro e último nome";
+"Passwords do not match, please try again" = "As senhas não coincidem, por favor, tente novamente";
+"Please enter your current password" = "Por favor insira sua senha atual";
+"Please enter a new password" = "Por favor insira uma nova senha";
+"Please enter your confirm password" = "Por favor, digite a sua senha para confirmação";
+"Please enter your new password and confirm" = "Por favor insira a sua nova senha e confirme";
+"Please enter your current and new password" = "Por favor, insira a sua senha atual e a nova";
+"Please enter your current password and confirm new password" = "Por favor digite sua senha atual e confirme a nova senha";
+"Please fill out all fields" = "Por favor, preencha todos os campos";
+"Oh no! You must be 16+ years of age to use MSR" = "Oh não! Você deve ter 16 anos ou mais para usar o MSR";
+"Please enter your date of birth" = "Por favor insira a sua data de nascimento";
+"Please enter a password" = "Por favor insira uma senha";
+"Please confirm your password" = "Por favor, confirme a sua senha";
+"Please enter a valid confirm email address" = "Por favor, insira um endereço de e-mail válido para confirmação";
+"Please make sure your emails match" = "Certifique-se que os e-mails inseridos são iguais";
+"Attributes" = "Atributos";
+"Categories" = "Categorias";
+"My Attributes" = "Os Meus Atributos";
+"Explore and verify the attributes you have defined in the Profile Surveys." = "Explore e verifique os atributos que você definiu nos seus questionários de perfil.";
+"  My Attributes" = "  Os Meus Atributos";
+"Search Attributes" = "Atributos pesquisados";
+"Search Results" = "Resultados da pesquisa";
+"Your search did not have any results" = "A sua pesquisa não devolveu nenhum resultado";
+"Profile Surveys" = "Questionários de perfil";
+"Add demographic data to your profile." = "Adicione dados demográficos ao seu perfil.";
+"Partner survey" = "Questionários de parceiros";
+"Profile survey" = "Questionário de perfil";
+"Partner surveys involve completing a survey for a third-party survey partner in exchange for a MSR reward." = "Os questionários de parceiros envolvem o preenchimento de um questionário de pesquisa de mercado terceirizado em troca de uma recompensa MSR.";
+"Profile survey jobs involve completing a profile survey for a MSR reward." = "As tarefas de perfil envolvem o preenchimento de um questionário de perfil em troca de uma recompensa MSR.";
+"Profile surveys are short surveys that build your profile and help you qualify for paid jobs." = "Os questionários de perfil são pesquisas curtas e ajudam-no a construir o seu perfil para que se possa qualificar para tarefas remuneradas.";
+
+
+
+"For this job, the third-party survey partner will receive all survey data that you enter as well as six points of profile data: age, gender, education level, income, country and employment.\n\nPlease be advised that each survey partner requires you to agree to their terms and conditions and privacy notice." = "Para esta tarefa, o parceiro de pesquisa terceirizado receberá todos os dados do questionário que você inserir, bem como seis pontos de perfil: idade, sexo, nível de escolaridade, rendimento, país e emprego.\n\n Note que cada parceiro de pesquisa terceirizado exige que você concorde com os seus termos e condições e avisos de privacidades próprios.";
+
+"For this job no data will leave your device or be shared with third-parties." = "Para esta tarefa, nenhum dado sairá do seu dispositivo ou será compartilhado com terceiros.";
+"Basic Demographics" = "Demografia Básica";
+"Enter basic information about yourself in this survey to start building your profile. Your profile stays on your device and allows you to qualify for paid surveys and other data jobs." = "Insira informações básicas sobre você mesmo neste questionário para começar a construir o seu perfil. Os seus dados irão permanecer no seu dispositivo, e vão permitir que se qualifique para outras tarefas pagas.";
+"Community survey" = "Questionários da comunidade";
+"Community survey jobs involve completing a survey provided for a community in exchange for a MSR reward." = "Os questionários da comunidade envolvem o preenchimento de um questionário fornecido pela comunidade da Measure, em troca de uma recompensa MSR.";
+"For this job, in addition to the survey data you provide, the survey partner will receive six points of profile data: age, gender, education level, income, country and employment." = "Por esta tarefa, além dos dados da pesquisa que você fornece, o parceiro da pesquisa receberá seis pontos de dados de perfil: idade, sexo, nível de escolaridade, rendimento, país e emprego.";
+"Decline offer" = "Recusar oferta";
+"Data sharing and privacy" = "Compartilhamento de dados e privacidade";
+"PROFILE SURVEY" = "QUESTIONÁRIO DE PERFIL";
+"PARTNER SURVEY" = "QUESTIONÁRIO DE PARCEIROS";
+"Expires in " = "Expira em ";
+"1 minute to complete" = "1 minuto para completar";
+"minutes to complete" = "minutos para completar";
+"COMMUNITY SURVEY" = "QUESTIONÁRIO COMUNITÁRIO";
+"Expires in" = "Expira em";
+
+"Job Complete!" = "Tarefa concluído!";
+"Disqualified" = "Desqualificado";
+"Survey Full" = "Questionário Cheio";
+"Closed" = "Fechado";
+
+"MSR requires access to your photo library. Please update settings and allow MSR to access All Photos." = "MSR requer acesso à sua biblioteca de fotos. Atualize as configurações e permita que a MSR acesse Todas as Fotos.";
+"Update MSR Settings" = "Atualizar configurações da MSR";
+
+"Your payment will arrive soon:" = "Seu pagamento chegará em breve:";
+
+"Thanks for completing the job!" = "Obrigado por concluir a tarefa!";
+"Nice work! You’ve added several new items to your profile." = "Bom trabalho! Você adicionou vários novos itens ao seu perfil.";
+"Your profile didn't match but you still qualify for a reward:" = "Seu perfil não corresponde, mas você ainda se qualifica para uma recompensa:";
+"Sorry, your profile didn't match the requirements." = "Desculpe, seu perfil não atendeu aos requisitos.";
+"Sorry, the request is already full." = "Desculpe, o questionário já está completo.";
+"The request is already full, but you still qualify for a reward." = "O questionário já está cheio, mas você ainda se qualifica para uma recompensa.";
+"We will review your answers and confirm your payment shortly." = "Analisaremos as suas respostas e confirmaremos o seu pagamento em breve.";
+
+"Job completed" = "Tarefa concluída";
+"In Review" = "Em revisão";
+"Profile added" = "Perfil adicionado";
+"How would you rate this job?" = "Como você avaliaria esta tarefa?";
+"Why?" = "Porquê?";
+"Continue" = "Continuar";
+"Please rate and tell us why you exited the job." = "Avalie e conte-nos por que você saiu da tarefa.";
+"Exited Job" = "Abandonou a tarefa";
+
+"Oops! Looks like no recordings are saved. Please try again." = "Oops! Parece que a gravação não teve sucesso. Por favor, tente novamente.";
+"The video was not recorded recently. Please try again with a new recording." = "O vídeo não foi gravado recentemente. Tente novamente com uma nova gravação.";
+"While your video uploads please keep the MSR app open. This won’t take long." = "Enquanto seu vídeo carrega, mantenha o aplicativo MSR aberto. Isto não vai demorar muito.";
+"Something’s not right. An unexpected error occurred when uploading the selected video." = "Alguma coisa não está certa. Ocorreu um erro inesperado ao enviar o vídeo selecionado.";
+"The selected video does not include the required screens from" =  "O vídeo selecionado não inclui os ecrãs necessários de";
+
+
+"\n\nif you are sure the video contains the correct " =  "\n \n se você tiver a certeza de que o vídeo contém o correto ";
+"screens, click here to continue." = "ecrãs, clique aqui para continuar. ecrās, clique aqui para continuar.";
+"screens, click here to continue.\n\nSee Result" = "ecrãs, clique aqui para continuar. \n \n Veja o resultado";
+"Oops! Looks like no images are saved. Please try again." = "Oops! Parece que nenhuma imagem foi guardada Por favor, tente novamente.";
+"The image was not created recently. Please try again with a newer image." = "A imagem não foi criada recentemente. Tente novamente com uma imagem mais recente.";
+"While your image uploads please keep the MSR app open. This won’t take long." = "Enquanto as suas imagens carregam, mantenha o aplicativo MSR aberto. Isto não vai demorar muito.";
+"Something’s not right. An unexpected error occurred when uploading the selected image." = "Alguma coisa não está certa. Ocorreu um erro inesperado ao enviar a imagem selecionada.";
+
+"Oops! Looks like no files are saved. Please try again." = "Oops! Parece que nenhum ficheiro foi guardado. Por favor, tente novamente.";
+"The file was not created recently. Please try again with a newer file." = "O ficheiro não foi criado recentemente. Tente novamente com um ficheiro mais recente.";
+"While your file uploads please keep the MSR app open. This won’t take long." = "Enquanto o seu ficheir carrega, mantenha o aplicativo MSR aberto. Isto não vai demorar muito.";
+"Something’s not right. An unexpected error occurred when uploading the selected file." = "Alguma coisa não está certa. Ocorreu um erro inesperado ao enviar o ficheiro selecionado.";
+"Nearly done!" = "Quase pronto!";
+"Oops!" = "Oops!";
+"Uploaded" = "Carregado";
+"Upload from photos" = "Upload de fotos";
+
+
+"Confirm Upload" = "Confirmar upload";
+"Upload from file manager" = "Upload a partir do gerenciador de ficheiros";
+"Video Validation passed, click here to continue.\n\nSee Result" = "Validação de vídeo concluído, clique aqui para continuar. \n\n Veja o resultado";
+
+"The" = "O";
+"is under the minimum size of" =  "está abaixo do tamanho mínimo de";
+"KB. Please try again." =  "KB. Por favor, tente novamente.";
+"The recording is under the minimum size of" =  "A gravação está abaixo do tamanho mínimo de";
+"MB. Please try again." =  "MB. Por favor, tente novamente.";
+"The recording is over the maximum size of" =  "A gravação ultrapassou o tamanho máximo de";
+"is over the maximum size of" =  "está acima do tamanho máximo de";
+"If you delete your account you will permanently lose your profile and MSR points." = "Se você Deletar a sua conta, perderá permanentemente o seu perfil e pontos MSR.";
+
+"You'll permanently lose your" = "Você perderá permanentemente o seu";
+"Profile" = "Perfil";
+"MSR points" = "Pontos MSR";
+"Delete" = "Deletar";
+
+"Join community" = "Junte-se à comunidade";
+"No, thanks" = "Não, obrigado";
+"Joining community..." = "Entrando na comunidade ...";
+"There was an error joining the community." = "Ocorreu um erro ao juntar-lo á comunidade.";
+"You are already a member of the" = "Você já é membro da";
+"community." = "comunidade.";
+"You have successfully joined the" = "Parabéns! Você se juntou á";
+
+"Read More" = "Consulte Mais informação";
+
+"See Less" = "Veja menos";
+"See All" = "Ver tudo";
+
+"Dynata and its clients will also use...Read More" = "A Dynata e seus clientes também usarão ... Leia mais";
+"Dynata uses this data to match you to surveys. \(sufixReadText)" = "A Dynata usa estes dados para combiná-lo com questionários. \ (sufixReadText)";
+"Dynata and its clients will also use this profile data for market research analysis along with the survey data you provide" = "A Dynata e os seus clientes também usarão estes dados de perfil para análise de pesquisa de mercado junto com os dados do questionário que você fornecer";
+
+"Dynata uses this data to match you to surveys. \(finalMidReadText).\n\nDynata will independently control the data you share with them in the USA and is subject to their Privacy Policy and Terms & Conditions." = "A Dynata usa estes dados para encontrar-lhe tarefas. \ (finalMidReadText). \n \n A Dynata controlará independentemente, a partir dos EUA, os dados que você compartilhar com eles e você está sujeita à Política de Privacidade e aos Termos e Condições deles.";
+
+"Pollfish uses this data to match you to surveys. Pollfish and its clients will also use...Read More" = "A Pollfish usa estes dados para encontrar-lhe tarefas. A Pollfish e seus clientes também usarão ... Leia mais";
+"Pollfish uses this data to match you to surveys. Pollfish and its clients will also use this profile data for market research analysis along with the survey data you provide.\n\nPollfish will independently control the data you share with them in the USA and is subject to their Privacy Policy and Terms & Conditions." = "A Pollfish usa estes dados para encontrar-lhe tarefas. A Pollfish e os seus clientes também usarão estes dados de perfil para análises de pesquisa de mercado junto com os dados dos questionários que você fornecer. \n \n A Pollfish controlará independentemente, a partir dos EUA, os dados que você compartilhar com eles e você está sujeita à Política de Privacidade e aos Termos e Condições deles.";
+
+"Cint uses this data to match you to surveys. Cint and its clients will also use...Read More" = "Cint usa estes dados para encontrar-lhe tarefas. A Cint e seus clientes também usarão ... Leia mais";
+"Cint uses this data to match you to surveys. Cint and its clients will also use this profile data for market research analysis along with the survey data you provide.\n\nCint will independently control the data you share with them in the USA and is subject to their Privacy Policy and Terms & Conditions." = "Cint usa estes dados para encontrar-lhe tarefas. A Cint e seus clientes também usarão estes dados de perfil para análises de pesquisa de mercado junto com os dados do questionário que você fornecer. \n\n A Cint controlará independentemente, a partir dos EUA, os dados que você compartilhar com eles e você está sujeita à Política de Privacidade e aos Termos e Condições deles.";
+
+"Precision Sample uses this data to match you to surveys. Precision Sample and its clients will also use...Read More" = "A Precision Sample usa estes dados para encontrar-lhe tarefas. A Precision Sample e seus clientes também usarão ... Leia mais";
+
+"Precision Sample uses this data to match you to surveys. Precision Sample and its clients will also use this profile data for market research analysis along with the survey data you provide.\n\nPrecision Sample will independently control the data you share with them in the USA and is subject to their Privacy Policy and Terms & Conditions." = "A Precision Sample usa estes dados para encontrar-lhe tarefas. A Precision Sample e seus clientes também usarão estes dados de perfil para análises de pesquisa de mercado junto com os dados do questionário que você fornecer. \n\n A Precision Sample controlará independentemente, a partir dos EUA, os dados que você compartilhar com eles e você está sujeita à Política de Privacidade e aos Termos e Condições deles.";
+
+"You’ll need to share this with Dynata so they can match you to more relevant surveys which means more chance to earn MSR. \n\nCheck out Dynata’s Privacy Policy and Terms & Conditions for more information about how your data is only used for market research." =  "Você precisará compartilhar isto com a Dynata para que eles possam encontrar-lhe questionários mais relevantes, o que resulta em melhores chances de ganhar MSR. \n\n Consulte a Política de Privacidade e os Termos e Condições da Dynata para obter mais informações sobre como os seus dados serão utilizados apenas para fins de pesquisas de mercado.";
+"You’ll need to share this with Pollfish so they can match you to more relevant surveys which means more chance to earn MSR. \n\nCheck out Pollfish’s Privacy Policy and Terms & Conditions for more information about how your data is only used for market research." =  "Você precisará compartilhar isto com a Pollfish para que eles possam encontrar-lhe questionários mais relevantes, o que resulta em melhores chances de ganhar MSR. \n\n Consulte a Política de Privacidade e os Termos e Condições da Pollfish para obter mais informações sobre como os seus dados serão utilizados apenas para fins de pesquisas de mercado";
+
+"You’ll need to share this with Cint so they can match you to more relevant surveys which means more chance to earn MSR. \n\nCheck out Cint’s Privacy Policy and Terms & Conditions for more information about how your data is only used for market research." = "Você precisará compartilhar isso com a Cint para que eles possam encontrar-lhe questionários mais relevantes, o que resulta em melhores chances de ganhar MSR. \n\n Consulte a Política de Privacidade e os Termos e Condições da Cint para obter mais informações sobre como os seus dados serão utilizados apenas para fins de pesquisas de mercado.";
+
+"You’ll need to share this with Precision Sample so they can match you to more relevant surveys which means more chance to earn MSR. \n\nCheck out Precision’s Sample Privacy Policy and Terms & Conditions for more information about how your data is only used for market research." = "Você precisará compartilhar isso com o Precision Sample para que eles possam encontrar-lhe questionários mais relevantes, o que resulta em melhores chances de ganhar MSR. \n\n Consulte o exemplo de Política de Privacidade e Termos e Condições da Precision para obter mais informações sobre como os seus dados serão utilizados apenas para fins de pesquisas de mercado.";
+
+"Strengthen your profile" = "Fortaleça o seu perfil";
+"Validating your profile makes your data more valuable. Buyers of data hate bots, and this verifies that you are real person." = "Valide o seu perfil para tornar os seus dados mais valiosos. Os compradores de dados odeiam bots, e isto confirma que você é uma pessoa real.";
+"Want even more surveys?" = "Quer ainda mais tarefas?";
+"Registration is very simple - just a few clicks. Once you're connected we'll start matching you to relevant surveys with our trusted partners." = "O registo é muito simples - em apenas alguns cliques. Assim que estiver conectado, começaremos a encontrar-lhe outras tarefas relevantes dos nossos parceiros de confiança.";
+
+"Linkedin" = "Linkedin";
+"Facebook" = "Facebook";
+"Share part of your Profile" = "Compartilhe parte do seu perfil";
+
+"Total Earned" = "Total Ganho";
+"Job History" = "Histórico de Tarefas";
+"Your earning history and job status with Dynata." = "Seu histórico de ganhos e status de tarefas com a Dynata.";
+"Your earning history and job status with Pollfish." = "Seu histórico de ganhos e status de tarefas com a Pollfish.";
+"Your earning history and job status with Cint." = "Seu histórico de ganhos e status de tarefas com a Cint.";
+"Data Sharing" = "Compartilhamento de dados";
+"Status" = "Status";
+"You’re currently connected and sharing profile data with Dynata." = "Neste momento, você está conectado e compartilhando dados de perfil com a Dynata.";
+"You’re currently connected and sharing profile data with Pollfish." = "Neste momento, você está conectado e compartilhando dados de perfil com a Pollfish.";
+"You’re currently connected and sharing profile data with Cint." = "Neste momento, você está conectado e compartilhando dados de perfil com a Cint.";
+
+"You’re currently connected and sharing profile data with Precision Sample." = "Neste momento, você está conectado e compartilhando dados de perfil com a Precision Sample.";
+"Are you sure?" = "Tem a certeza?";
+"If you disconnect you will no longer share data with this partner and will not receive any more offers from them." = "Se você se desconectar, não compartilhará mais dados com este parceiro e não receberá mais ofertas deles.";
+"Disconnect" = "Desconectar";
+"You have not completed any jobs." = "Você não concluiu nenhuma tarefa.";
+
+"Linkedin Connected" = "Linkedin conectado";
+"Your LinkedIn account is now connected to your Measure account." = "A sua conta do LinkedIn está conectada à sua conta do Measure.";
+"Facebook Connected" = "Facebook conectado";
+"Your Facebook account is now connected to your Measure account." = "A sua conta do Facebook está conectada à sua conta do Measure.";
+"You’re successfully registered with Dynata" =  "Você se registou com sucesso na Dynata";
+
+
+"We will now regularly check with Dynata to find suvey jobs for you.\n\nAnd remember, you can opt-out of any job via the Dynata usage page found in My Data > Survey Partners > Dynata." = "Verificaremos regularmente com a Dynata para encontrar tarefas de pesquisa de mercado para si. \n\n E lembre-se, você pode cancelar qualquer tarefa através da página da Dynata localizada em: Os Meus dados> Parceiros de Pesquisa de Mercado> Dynata.";
+"You’re successfully registered with Pollfish" =  "Você se registou com sucesso na Pollfish";
+"We will now regularly check with Pollfish to find suvey jobs for you.\n\nAnd remember, you can opt-out of any job via the Pollfish usage page found in My Data > Survey Partners > Pollfish." = "Verificaremos regularmente com a Pollfish para encontrar tarefas de pesquisa de mercado para si. \n\n E lembre-se, você pode cancelar qualquer tarefa através da página da Pollfish localizada em: Os Meus dados> Parceiros de Pesquisa de Mercado> Pollfish.";
+
+"You’re successfully registered with Cint" = "Você se registou com sucesso na Cint";
+
+"We will now regularly check with Cint to find suvey jobs for you.\n\nAnd remember, you can opt-out of any job via the Cint usage page found in My Data > Survey Partners > Cint." = "Verificaremos regularmente com a Cint para encontrar tarefas de pesquisa de mercado para si. \n\n E lembre-se, você pode cancelar qualquer tarefa através da página da Cint localizada em: Os Meus dados> Parceiros de Pesquisa de Mercado> Cint.";
+"Good Job!" = "Bom trabalho!";
+"You’re successfully registered with Precision Sample" =  "Você se registou com sucesso na Precision Sample";
+"We will now regularly check with Precision Sample to find suvey jobs for you.\n\nAnd remember, you can opt-out of any job via the Precision Sample usage page found in My Data > Survey Partners > Precision Sample." = "Verificaremos regularmente com a Precision para encontrar tarefas de pesquisa de mercado para si. \n\n E lembre-se, você pode cancelar qualquer tarefa através da página da Precision localizada em: Os Meus dados> Parceiros de Pesquisa de Mercado> Precision Sample.";
+
+"This LinkedIn account has already been used" = "Esta conta do LinkedIn já foi usada";
+"Each Linkedin account can only be connected to a single Measure account. This account is has already been claimed and cannot be used again." = "Cada conta do Linkedin só pode ser conectada a uma única conta do Measure. Esta conta já foi usada e não pode ser usada novamente.";
+"This Facebook account has already been used" = "Esta conta do Facebook já está sendo usada";
+"Each Facebook account can only be connected to a single Measure account. This account is has already been claimed and cannot be used again." = "Cada conta do Facebook só pode ser conectada a uma única conta do Measure. Esta conta já foi usada e não pode ser usada novamente.";
+
+"To connect, first complete the checklist in the Feed." = "Para se conectar, primeiro preencha a lista de verificação no Feed.";
+"I do not use this app" = "Eu não uso esta app";
+"Privacy concerns" = "Preocupações com a privacidade";
+"Upload took too long" = "O upload demorou muito";
+"Techincal Issue" = "Problemas técnicos";
+"I am not interested in Retro tasks" = "Não estou interessado em tarefas Retro";
+"Not enough MSR points" = "Pontos MSR insuficientes";
+"Exit" = "Saír";
+"Your answers will not be saved." = "As suas respostas não serão guardadas.";
+"Please select the main reason for exiting this Job:" = "Selecione o motivo principal para sair desta tarefa:";
+"Hello," = "Olá,";
+"how can we help?" = "como podemos ajudar?";
+"Found a bug? Briefly explain what happened and we look into it as soon as possible." = "Encontrou um bug? Explique resumidamente o que aconteceu e nós investigaremos o mais rápido possível.";
+"Send Feedback" = "Enviar comentários";
+"Let’s chat - We are hyper responsive" = "Vamos conversar - Respondemos super rápido";
+"General Feedback" = "Feedback Geral";
+"Something Isn’t Working" = "Algo não está funcionando";
+"Can’t Complete Registration" = "Não consigo completar o registro";
+"Other" = "Outro";
+"Message" = "Mensagem";
+"Select a category of concern" = "Selecione uma categoria";
+"Yes, please email me a copy of this message" = "Sim, por favor envie-me uma cópia desta mensagem";
+"Submit" = "Enviar";
+
+"Haven’t Received Payment" = "Não Recebi Pagamento";
+"Technical Issue" = "Problema técnico";
+"Gift Cards" = "Vales-presente";
+"Report an issue" = "Reportar um problema";
+"English (United States)" = "Inglês (Estados Unidos)";
+"Portugese (Brazil)" = "Português (Brasil)";
+"Device Language" = "Idioma do dispositivo";
+"Select Preferred Language" = "Selecione o idioma preferido";
+"By connecting to " = "Conectando-se a ";
+" you will share" = " você vai compartilhar";
+" profile points including:" = " pontos de perfil, incluindo:";
+"Connect" = "Conectar";
+"Disconnect" = "Desconectar";
+"No Thanks" = "Não, obrigado";
+"Measure uses" = "Utilizadores da Measure";
+" to verify that you are a real, " = " para verificar que você é uma pessoa real, ";
+"unique person. Connect your account to qualify for more and better jobs." = "e única. Conecte sua conta para se qualificar para mais e melhores tarefas.";
+"None of your" = "Nenhum de seus";
+"data or network " = "dados ou conexões ";
+"connections will be collected by Measure." = "de rede serão coletadas pela Measure.";
+"After selecting an amount and completing the form below with your PayPal details, your redemption will be processed within 48 hours.\n\n Due to PayPal policies, once submitted this request cannot be undone or reimbursed. Please ensure your PayPal account email is correct." = "Depois de selecionar um valor e preencher o formulário em baixo com os seus detalhes da PayPal, o seu pagamento será processado em 48 horas. \n\n Devido às políticas da PayPal, uma vez enviado o pagamento o mesmo não pode ser revertido ou reembolsado. Verifique que o e-mail da sua conta da PayPal está correto.";
+"Please explain exit reason" = "Explique a saída de ressonância";
+"Oops! Something’s not right" = "Opa! algo não está certo";

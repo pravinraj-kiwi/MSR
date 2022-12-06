@@ -1,0 +1,40 @@
+{
+  "reasons":[
+    {
+       "reasonName": "I do not use this app",
+       "reasonImage": "dontHaveApp",
+       "reasonType": "do_not_use_app",
+       "selection": false
+    },
+    {
+        "reasonName": "Privacy concerns",
+        "reasonImage": "privacy",
+        "reasonType": "privacy_concerns",
+        "selection": false
+    },
+    {
+        "reasonName": "Upload took too long",
+        "reasonImage": "tooLong",
+        "reasonType": "task_too_long",
+        "selection": false
+    },
+    {
+        "reasonName": "Techincal Issue",
+        "reasonImage": "technical",
+        "reasonType": "technical_issue",
+        "selection": false
+    },
+    {
+        "reasonName": "I am not interested in Retro tasks",
+        "reasonImage": "noRetros",
+        "reasonType": "not_interested_retro_tasks",
+        "selection": false
+    },
+    {
+        "reasonName": "Not enough MSR points",
+        "reasonImage": "notEnoughPoints",
+        "reasonType": "not_enough_msr_points",
+        "selection": false
+    }
+  ]
+}

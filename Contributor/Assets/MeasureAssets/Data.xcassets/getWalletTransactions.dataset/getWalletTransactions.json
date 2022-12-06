@@ -1,0 +1,32 @@
+[
+  {
+      "id": 60,
+      "guid": "d80a560e-0d1d-4976-a48f-827ada087578",
+      "user": 6,
+      "transaction_type": 40,
+      "amount_msr": 100,
+      "description": "Credit",
+      "transaction_date": "2019-08-12T14:03:37.112331Z",
+      "properties": {}
+  },
+  {
+      "id": 61,
+      "guid": "3c9972c8-346a-4689-93af-7bac9939dac3",
+      "user": 6,
+      "transaction_type": 40,
+      "amount_msr": 200,
+      "description": "Credit",
+      "transaction_date": "2019-08-12T14:04:02.491092Z",
+      "properties": {}
+  },
+  {
+      "id": 62,
+      "guid": "554532c4-b644-46f0-8115-ea6712e8be1e",
+      "user": 6,
+      "transaction_type": 40,
+      "amount_msr": 2000,
+      "description": "Credit",
+      "transaction_date": "2019-08-12T14:06:17.131754Z",
+      "properties": {}
+  }
+]

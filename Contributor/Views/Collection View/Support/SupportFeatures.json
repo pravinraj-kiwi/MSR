@@ -1,0 +1,24 @@
+{
+  "support":[
+    {
+       "supportName": "Haven’t Received Payment",
+       "supportImage": "paymentSupport",
+       "supportURL": "app/faq/payment"
+    },
+    {
+        "supportName": "Technical Issue",
+        "supportImage": "technicalSupport",
+        "supportURL": "app/faq/technical-issue"
+    },
+    {
+        "supportName": "Gift Cards",
+        "supportImage": "giftCardSupport",
+        "supportURL": "app/faq/gift-card"
+    },
+    {
+        "supportName": "Delete Account",
+        "supportImage": "deleteAccountSupport",
+        "supportURL": "app/faq/delete-acct"
+    }
+  ]
+}

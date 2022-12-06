@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Proxima-Nova-Bold.otf">
+            <string>ProximaNova-Bold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="5dT-FB-P9b" customClass="HeaderView" customModule="Broccoli" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="461" height="64"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gH8-lF-fPS">
+                    <rect key="frame" x="27" y="30" width="407" height="34"/>
+                    <fontDescription key="fontDescription" name="ProximaNova-Bold" family="Proxima Nova" pointSize="21"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="gH8-lF-fPS" secondAttribute="trailing" constant="27" id="5Do-YJ-SDe"/>
+                <constraint firstItem="gH8-lF-fPS" firstAttribute="top" secondItem="5dT-FB-P9b" secondAttribute="top" constant="30" id="RZL-lW-C2T"/>
+                <constraint firstAttribute="bottom" secondItem="gH8-lF-fPS" secondAttribute="bottom" id="UeH-AN-g15"/>
+                <constraint firstItem="gH8-lF-fPS" firstAttribute="leading" secondItem="5dT-FB-P9b" secondAttribute="leading" constant="27" id="lcJ-qY-Uaq"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="dateLabel" destination="gH8-lF-fPS" id="Gnb-3c-hfl"/>
+                <outlet property="topConstraint" destination="RZL-lW-C2T" id="uDe-Ei-gP7"/>
+            </connections>
+            <point key="canvasLocation" x="-202.40000000000001" y="-206.44677661169416"/>
+        </view>
+    </objects>
+</document>

@@ -1,0 +1,924 @@
+{
+    "category": {
+        "intro_text": {
+            "en": "The basic stuff is often the most important- Lets get to know each other. Tell us a little more about yourself so we can find you the best tasks."
+        },
+        "label": {
+            "en": "Basic Demographics"
+        },
+        "order": 0,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/demographics-white-120px.png"
+        },
+        "ref": "basic",
+        "source": "basic.json",
+        "uid": "98076de2e6504e3b8f9b59853a04c890"
+    },
+    "expanded": true,
+    "id": "measure_basic_profile_survey",
+    "options": {
+        "use_page_titles": true
+    },
+    "pages": [
+        {
+            "blocks": [
+                {
+                    "//": "country_of_residence",
+                    "question": {
+                        "choices": [
+                            {
+                                "label": {
+                                    "en": "Australia"
+                                },
+                                "value": "e7932c585ea48d396e42d692de780b06"
+                            },
+                            {
+                                "label": {
+                                    "en": "Canada"
+                                },
+                                "value": "c65ddc97a21d4018dbef569f1366aa5f"
+                            },
+                            {
+                                "label": {
+                                    "en": "United Kingdom"
+                                },
+                                "value": "530b106ba55dcde688507d37059c3d90"
+                            },
+                            {
+                                "label": {
+                                    "en": "United States of America"
+                                },
+                                "value": "0c43ea783b1b50bd7e2fe2f279ba4fc6"
+                            }
+                        ],
+                        "choices_source": {
+                            "auto_expand": true,
+                            "path": "/geo/countries?only_root_countries=1",
+                            "type": "measure_taxonomy"
+                        },
+                        "id": "country_of_residence",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Country"
+                        },
+                        "question": {
+                            "en": "Which country do you reside in?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/57a8fa3c19b54cb3b117a55dfa29cb66",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "//": "us_zip_code_of_residence",
+                    "question": {
+                        "choices_source": {
+                            "auto_expand": false,
+                            "path": "/geo/countries/0c43ea783b1b50bd7e2fe2f279ba4fc6/zips",
+                            "type": "measure_taxonomy"
+                        },
+                        "example_text": "E.g. 32204",
+                        "id": "us_zip_code_of_residence",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Zip Code"
+                        },
+                        "question": {
+                            "en": "What is your zip code?"
+                        },
+                        "widget": "single_line_text"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/d47a1a17c9e34940ba0d84532aef9a44",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "0c43ea783b1b50bd7e2fe2f279ba4fc6"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "ca_postal_code_of_residence",
+                    "question": {
+                        "choices_source": {
+                            "auto_expand": false,
+                            "path": "/geo/countries/c65ddc97a21d4018dbef569f1366aa5f/postcodes",
+                            "type": "measure_taxonomy"
+                        },
+                        "example_text": "E.g. M4C 1B5",
+                        "id": "ca_postal_code_of_residence",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Postal Code"
+                        },
+                        "question": {
+                            "en": "What is your postal code?"
+                        },
+                        "widget": "single_line_text"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/eee350f8249f4091a6a790cb7a91b64c",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "c65ddc97a21d4018dbef569f1366aa5f"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "uk_postal_code_of_residence",
+                    "question": {
+                        "choices_source": {
+                            "auto_expand": false,
+                            "path": "/geo/countries/530b106ba55dcde688507d37059c3d90/postcodes",
+                            "type": "measure_taxonomy"
+                        },
+                        "example_text": "E.g. N13 5RY",
+                        "id": "uk_postal_code_of_residence",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Postal Code"
+                        },
+                        "question": {
+                            "en": "What is your postal code?"
+                        },
+                        "widget": "single_line_text"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/befeeaa68785451fb750e907da6f86fd",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "530b106ba55dcde688507d37059c3d90"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "au_postal_code_of_residence",
+                    "question": {
+                        "choices_source": {
+                            "auto_expand": false,
+                            "path": "/geo/countries/e7932c585ea48d396e42d692de780b06/postcodes",
+                            "type": "measure_taxonomy"
+                        },
+                        "example_text": "E.g. 2740",
+                        "id": "au_postal_code_of_residence",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Postal Code"
+                        },
+                        "question": {
+                            "en": "What is your postal code?"
+                        },
+                        "widget": "single_line_text"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/d549b4193f5a4829988a53679f5f8a49",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "e7932c585ea48d396e42d692de780b06"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "gender",
+                    "question": {
+                        "choices": [
+                            {
+                                "label": {
+                                    "en": "Male"
+                                },
+                                "value": "male"
+                            },
+                            {
+                                "label": {
+                                    "en": "Female"
+                                },
+                                "value": "female"
+                            },
+                            {
+                                "label": {
+                                    "en": "Non-binary"
+                                },
+                                "value": "non_binary"
+                            },
+                            {
+                                "label": {
+                                    "en": "I use a different term"
+                                },
+                                "value": "other"
+                            }
+                        ],
+                        "id": "gender",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Gender"
+                        },
+                        "question": {
+                            "en": "Are you..."
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/31b62756667848da9561c7de59b948dd",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "//": "employment",
+                    "question": {
+                        "choices": [
+                            {
+                                "label": {
+                                    "en": "Self-employed"
+                                },
+                                "value": "self_employed"
+                            },
+                            {
+                                "label": {
+                                    "en": "Employed full-time"
+                                },
+                                "value": "employed_full_time"
+                            },
+                            {
+                                "label": {
+                                    "en": "Employed part-time"
+                                },
+                                "value": "employed_part_time"
+                            },
+                            {
+                                "label": {
+                                    "en": "Retired"
+                                },
+                                "value": "retired"
+                            },
+                            {
+                                "label": {
+                                    "en": "Temporarily unemployed"
+                                },
+                                "value": "temporarily-unemployed"
+                            },
+                            {
+                                "label": {
+                                    "en": "Homemaker or stay-at-home parent"
+                                },
+                                "value": "homemaker"
+                            },
+                            {
+                                "label": {
+                                    "en": "Student (part-time)"
+                                },
+                                "value": "student_part_time"
+                            },
+                            {
+                                "label": {
+                                    "en": "Student (full-time)"
+                                },
+                                "value": "student_full_time"
+                            },
+                            {
+                                "label": {
+                                    "en": "Disability/health-related leave"
+                                },
+                                "value": "disability"
+                            },
+                            {
+                                "label": {
+                                    "en": "Something else"
+                                },
+                                "value": "other"
+                            }
+                        ],
+                        "id": "employment",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Employment"
+                        },
+                        "question": {
+                            "en": "Which of the following best describes your current employment situation?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/73865f3d1dd44ea897a2e8787ca16c51",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "//": "education",
+                    "question": {
+                        "choices": [
+                            {
+                                "label": {
+                                    "en": "Some high school or less"
+                                },
+                                "value": "some_high_school_or_less"
+                            },
+                            {
+                                "label": {
+                                    "en": "High school graduate"
+                                },
+                                "value": "high_school_or_equivalent"
+                            },
+                            {
+                                "label": {
+                                    "en": "Trade / Technical / Vocational post-secondary training"
+                                },
+                                "value": "trade_or_vocational"
+                            },
+                            {
+                                "label": {
+                                    "en": "College diploma/certificate"
+                                },
+                                "value": "college_diploma"
+                            },
+                            {
+                                "label": {
+                                    "en": "University undergraduate degree"
+                                },
+                                "value": "university_undergraduate_degree"
+                            },
+                            {
+                                "label": {
+                                    "en": "Master's graduate degree"
+                                },
+                                "value": "masters_graduate_degree"
+                            },
+                            {
+                                "label": {
+                                    "en": "Doctorate degree or above"
+                                },
+                                "value": "doctorate"
+                            },
+                            {
+                                "label": {
+                                    "en": "Other post secondary"
+                                },
+                                "value": "other"
+                            }
+                        ],
+                        "id": "education",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Education"
+                        },
+                        "question": {
+                            "en": "What is the highest level of education you have completed?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/b3e6c4f8a8a040cba7e1b91c5a574f8e",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ]
+        },
+        {
+            "blocks": [
+                {
+                    "//": "household_income_us",
+                    "question": {
+                        "choices": [
+                            {
+                                "high": 14999,
+                                "label": {
+                                    "en": "Less than $15,000"
+                                },
+                                "low": 0,
+                                "value": "less_than_15"
+                            },
+                            {
+                                "high": 24999,
+                                "label": {
+                                    "en": "$15,000 - $24,999"
+                                },
+                                "low": 15000,
+                                "value": "15000_to_24999"
+                            },
+                            {
+                                "high": 34999,
+                                "label": {
+                                    "en": "$25,000 - $34,999"
+                                },
+                                "low": 25000,
+                                "value": "25000_to_34999"
+                            },
+                            {
+                                "high": 49999,
+                                "label": {
+                                    "en": "$35,000 - $49,999"
+                                },
+                                "low": 35000,
+                                "value": "35000_to_49999"
+                            },
+                            {
+                                "high": 74999,
+                                "label": {
+                                    "en": "$50,000 - $74,999"
+                                },
+                                "low": 50000,
+                                "value": "50000_to_74999"
+                            },
+                            {
+                                "high": 99999,
+                                "label": {
+                                    "en": "$75,000 - $99,999"
+                                },
+                                "low": 75000,
+                                "value": "75000_to_99999"
+                            },
+                            {
+                                "high": 149999,
+                                "label": {
+                                    "en": "$100,000 - $149,999"
+                                },
+                                "low": 100000,
+                                "value": "100000_to_149999"
+                            },
+                            {
+                                "high": 249999,
+                                "label": {
+                                    "en": "$150,000 - $249,999"
+                                },
+                                "low": 150000,
+                                "value": "150000_to_249999"
+                            },
+                            {
+                                "label": {
+                                    "en": "$250,000 or more"
+                                },
+                                "low": 250000,
+                                "value": "250000_or_more"
+                            },
+                            {
+                                "label": {
+                                    "en": "Don't know/prefer not to answer"
+                                },
+                                "value": "prefer_not_to_answer"
+                            }
+                        ],
+                        "id": "household_income_us",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Household Income"
+                        },
+                        "question": {
+                            "en": "What was your household income last year before taxes?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/eed3694f3d2f4d88aad7841202ef0d64",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "0c43ea783b1b50bd7e2fe2f279ba4fc6"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "household_income_ca",
+                    "question": {
+                        "choices": [
+                            {
+                                "high": 14999,
+                                "label": {
+                                    "en": "Less than $15,000"
+                                },
+                                "low": 0,
+                                "value": "less_than_15"
+                            },
+                            {
+                                "high": 24999,
+                                "label": {
+                                    "en": "$15,000 - $24,999"
+                                },
+                                "low": 15000,
+                                "value": "15000_to_24999"
+                            },
+                            {
+                                "high": 34999,
+                                "label": {
+                                    "en": "$25,000 - $34,999"
+                                },
+                                "low": 25000,
+                                "value": "25000_to_34999"
+                            },
+                            {
+                                "high": 49999,
+                                "label": {
+                                    "en": "$35,000 - $49,999"
+                                },
+                                "low": 35000,
+                                "value": "35000_to_49999"
+                            },
+                            {
+                                "high": 74999,
+                                "label": {
+                                    "en": "$50,000 - $74,999"
+                                },
+                                "low": 50000,
+                                "value": "50000_to_74999"
+                            },
+                            {
+                                "high": 99999,
+                                "label": {
+                                    "en": "$75,000 - $99,999"
+                                },
+                                "low": 75000,
+                                "value": "75000_to_99999"
+                            },
+                            {
+                                "high": 149999,
+                                "label": {
+                                    "en": "$100,000 - $149,999"
+                                },
+                                "low": 100000,
+                                "value": "100000_to_149999"
+                            },
+                            {
+                                "high": 249999,
+                                "label": {
+                                    "en": "$150,000 - $249,999"
+                                },
+                                "low": 150000,
+                                "value": "150000_to_249999"
+                            },
+                            {
+                                "label": {
+                                    "en": "$250,000 or more"
+                                },
+                                "low": 250000,
+                                "value": "250000_or_more"
+                            },
+                            {
+                                "label": {
+                                    "en": "Don't know/prefer not to answer"
+                                },
+                                "value": "prefer_not_to_answer"
+                            }
+                        ],
+                        "id": "household_income_ca",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Household Income"
+                        },
+                        "question": {
+                            "en": "What was your household income last year before taxes?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/f6ab976f204649f7b8208478b6f8b416",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "c65ddc97a21d4018dbef569f1366aa5f"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "household_income_au",
+                    "question": {
+                        "choices": [
+                            {
+                                "high": 14999,
+                                "label": {
+                                    "en": "Less than $15,000"
+                                },
+                                "low": 0,
+                                "value": "less_than_15"
+                            },
+                            {
+                                "high": 24999,
+                                "label": {
+                                    "en": "$15,000 - $24,999"
+                                },
+                                "low": 15000,
+                                "value": "15000_to_24999"
+                            },
+                            {
+                                "high": 34999,
+                                "label": {
+                                    "en": "$25,000 - $34,999"
+                                },
+                                "low": 25000,
+                                "value": "25000_to_34999"
+                            },
+                            {
+                                "high": 49999,
+                                "label": {
+                                    "en": "$35,000 - $49,999"
+                                },
+                                "low": 35000,
+                                "value": "35000_to_49999"
+                            },
+                            {
+                                "high": 74999,
+                                "label": {
+                                    "en": "$50,000 - $74,999"
+                                },
+                                "low": 50000,
+                                "value": "50000_to_74999"
+                            },
+                            {
+                                "high": 99999,
+                                "label": {
+                                    "en": "$75,000 - $99,999"
+                                },
+                                "low": 75000,
+                                "value": "75000_to_99999"
+                            },
+                            {
+                                "high": 149999,
+                                "label": {
+                                    "en": "$100,000 - $149,999"
+                                },
+                                "low": 100000,
+                                "value": "100000_to_149999"
+                            },
+                            {
+                                "high": 249999,
+                                "label": {
+                                    "en": "$150,000 - $249,999"
+                                },
+                                "low": 150000,
+                                "value": "150000_to_249999"
+                            },
+                            {
+                                "label": {
+                                    "en": "$250,000 or more"
+                                },
+                                "low": 250000,
+                                "value": "250000_or_more"
+                            },
+                            {
+                                "label": {
+                                    "en": "Don't know/prefer not to answer"
+                                },
+                                "value": "prefer_not_to_answer"
+                            }
+                        ],
+                        "id": "household_income_au",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Household Income"
+                        },
+                        "question": {
+                            "en": "What was your household income last year before taxes?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/70b56b59ac77445bb7a6aa88b78642f2",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "e7932c585ea48d396e42d692de780b06"
+                ]
+            }
+        },
+        {
+            "blocks": [
+                {
+                    "//": "household_income_uk",
+                    "question": {
+                        "choices": [
+                            {
+                                "high": 9999,
+                                "label": {
+                                    "en": "Up to £10,000"
+                                },
+                                "low": 0,
+                                "value": "less_than_10"
+                            },
+                            {
+                                "high": 19999,
+                                "label": {
+                                    "en": "£10,000 to £19,999"
+                                },
+                                "low": 10000,
+                                "value": "10000_to_19999"
+                            },
+                            {
+                                "high": 29999,
+                                "label": {
+                                    "en": "£20,000 to £29,999"
+                                },
+                                "low": 20000,
+                                "value": "20000_to_29999"
+                            },
+                            {
+                                "high": 39999,
+                                "label": {
+                                    "en": "£30,000 to £39,999"
+                                },
+                                "low": 30000,
+                                "value": "30000_to_39999"
+                            },
+                            {
+                                "high": 49999,
+                                "label": {
+                                    "en": "£40,000 to £49,999"
+                                },
+                                "low": 40000,
+                                "value": "40000_to_49999"
+                            },
+                            {
+                                "high": 59999,
+                                "label": {
+                                    "en": "£50,000 to £59,999"
+                                },
+                                "low": 50000,
+                                "value": "50000_to_59999"
+                            },
+                            {
+                                "high": 69999,
+                                "label": {
+                                    "en": "£60,000 to £69,999"
+                                },
+                                "low": 60000,
+                                "value": "60000_to_69999"
+                            },
+                            {
+                                "high": 79999,
+                                "label": {
+                                    "en": "£70,000 to £79,999"
+                                },
+                                "low": 70000,
+                                "value": "70000_to_79999"
+                            },
+                            {
+                                "high": 89999,
+                                "label": {
+                                    "en": "£80,000 to £89,999"
+                                },
+                                "low": 80000,
+                                "value": "80000_to_89999"
+                            },
+                            {
+                                "high": 99999,
+                                "label": {
+                                    "en": "£90,000 to £99,999"
+                                },
+                                "low": 90000,
+                                "value": "90000_to_99999"
+                            },
+                            {
+                                "high": 1199999,
+                                "label": {
+                                    "en": "£100,000 to £119,999"
+                                },
+                                "low": 100000,
+                                "value": "100000_to_119999"
+                            },
+                            {
+                                "high": 139999,
+                                "label": {
+                                    "en": "£120,000 to under £139,999"
+                                },
+                                "low": 120000,
+                                "value": "1200000_to_1399999"
+                            },
+                            {
+                                "label": {
+                                    "en": "£140,000 and over"
+                                },
+                                "low": 140000,
+                                "value": "1400000_over"
+                            },
+                            {
+                                "label": {
+                                    "en": "Don't know/prefer not to answer"
+                                },
+                                "value": "prefer_not_to_answer"
+                            }
+                        ],
+                        "id": "household_income_uk",
+                        "is_profile": true,
+                        "label": {
+                            "en": "Household Income"
+                        },
+                        "question": {
+                            "en": "What was your household income last year before taxes?"
+                        },
+                        "widget": "radio"
+                    },
+                    "question_source": {
+                        "path": "/profile/items/e5fa8325b9164759b0a154fe763465e6",
+                        "type": "measure_taxonomy"
+                    },
+                    "type": "question"
+                }
+            ],
+            "include_if": {
+                "==": [
+                    {
+                        "var": [
+                            "country_of_residence"
+                        ]
+                    },
+                    "530b106ba55dcde688507d37059c3d90"
+                ]
+            }
+        }
+    ],
+    "title": {
+        "en": "Measure Basic Profile Survey"
+    }
+}

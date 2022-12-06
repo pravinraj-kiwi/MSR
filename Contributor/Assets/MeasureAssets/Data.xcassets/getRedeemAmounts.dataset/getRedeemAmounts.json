@@ -1,0 +1,17 @@
+[
+    {
+        "lcy_amount": 10,
+        "msr_amount": 1288,
+        "enabled": false
+    },
+    {
+        "lcy_amount": 25,
+        "msr_amount": 3221,
+        "enabled": false
+    },
+    {
+        "lcy_amount": 50,
+        "msr_amount": 6441,
+        "enabled": false
+    }
+]

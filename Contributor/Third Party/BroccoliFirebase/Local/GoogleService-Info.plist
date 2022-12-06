@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>706730062821-9606jvictmk4ppepva92ldsp4iv3dogm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.706730062821-9606jvictmk4ppepva92ldsp4iv3dogm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChbErsJNxr5j4YrowD528FUmtuhBsap5k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>706730062821</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.measureprotocol.contributor.broccoli.local</string>
+	<key>PROJECT_ID</key>
+	<string>contributor-broccoli-staging</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contributor-broccoli-staging.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:706730062821:ios:22db8e4060758b42af750c</string>
+	<key>DATABASE_URL</key>
+	<string>https://contributor-broccoli-staging.firebaseio.com</string>
+</dict>
+</plist>

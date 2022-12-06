@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Enter the code"; ObjectID = "5w8-vT-xYc"; */
+"5w8-vT-xYc.text" = "Enter the code";
+
+/* Class = "UILabel"; text = "Having trouble?"; ObjectID = "M4J-O0-Dok"; */
+"M4J-O0-Dok.text" = "Having trouble?";
+
+/* Class = "UIButton"; normalTitle = "Send code"; ObjectID = "PDZ-oq-I3N"; */
+"PDZ-oq-I3N.normalTitle" = "Send code";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "PZ0-7b-2br"; */
+"PZ0-7b-2br.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Validate"; ObjectID = "Vgr-W3-mIW"; */
+"Vgr-W3-mIW.normalTitle" = "Validate";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "e0d-eK-BFN"; */
+"e0d-eK-BFN.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "ena-SF-Te5"; */
+"ena-SF-Te5.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Validate your phone"; ObjectID = "kTt-Xe-n7g"; */
+"kTt-Xe-n7g.text" = "Validate your phone";
+
+/* Class = "UILabel"; text = "Country"; ObjectID = "r2J-2P-URA"; */
+"r2J-2P-URA.text" = "Country";
+
+/* Class = "UILabel"; text = "Didn’t receive a code?"; ObjectID = "rrf-uI-QJO"; */
+"rrf-uI-QJO.text" = "Didn’t receive a code?";
+
+/* Class = "UILabel"; text = "Phone validated"; ObjectID = "wTk-Sc-CEY"; */
+"wTk-Sc-CEY.text" = "Phone validated";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "wuA-b1-ekN"; */
+"wuA-b1-ekN.title" = "Done";

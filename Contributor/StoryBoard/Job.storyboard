@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Proxima-Nova-Bold.otf">
+            <string>ProximaNova-Bold</string>
+        </array>
+        <array key="Proxima-Nova-Regular.otf">
+            <string>ProximaNova-Regular</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Exit Job View Controller-->
+        <scene sceneID="5fI-ch-uZ4">
+            <objects>
+                <viewController storyboardIdentifier="ExitJobViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="i9L-Au-cAZ" customClass="ExitJobViewController" customModule="Broccoli" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="gg8-CO-cro">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="GqJ-Cb-Rwi">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <color key="backgroundColor" red="0.96862745098039216" green="0.96862745098039216" blue="0.96862745098039216" alpha="1" colorSpace="calibratedRGB"/>
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="J5V-Lc-niu">
+                                    <size key="itemSize" width="128" height="128"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="headerCollectionCell" id="5tW-qN-t62" customClass="HeaderCollectionCell" customModule="Broccoli" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="78"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="u13-By-L2j">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="78"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please select the main reason for exiting this Job:" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8UT-6N-LrD">
+                                                    <rect key="frame" x="21" y="0.0" width="372" height="78"/>
+                                                    <fontDescription key="fontDescription" name="ProximaNova-Bold" family="Proxima Nova" pointSize="22"/>
+                                                    <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <nil key="highlightedColor"/>
+                                                </label>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="trailing" secondItem="8UT-6N-LrD" secondAttribute="trailing" constant="21" id="0e2-X0-Pwn"/>
+                                                <constraint firstItem="8UT-6N-LrD" firstAttribute="leading" secondItem="u13-By-L2j" secondAttribute="leading" constant="21" id="1Nc-mQ-Vqe"/>
+                                                <constraint firstAttribute="bottom" secondItem="8UT-6N-LrD" secondAttribute="bottom" id="kKN-54-1sC"/>
+                                                <constraint firstItem="8UT-6N-LrD" firstAttribute="top" secondItem="u13-By-L2j" secondAttribute="top" id="rD2-dh-qJ4"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <size key="customSize" width="414" height="78"/>
+                                        <connections>
+                                            <outlet property="titleLabel" destination="8UT-6N-LrD" id="q19-VH-ZYB"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="reasonViewCell" id="x2l-u0-vN8" customClass="ReasonViewCell" customModule="Broccoli" customModuleProvider="target">
+                                        <rect key="frame" x="143" y="88" width="128" height="128"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="DGw-B8-aQw">
+                                            <rect key="frame" x="0.0" y="0.0" width="128" height="128"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="E4Y-I9-XWD">
+                                                    <rect key="frame" x="0.0" y="0.0" width="128" height="128"/>
+                                                    <subviews>
+                                                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="equalSpacing" alignment="center" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="F33-b9-9Vl">
+                                                            <rect key="frame" x="10" y="35" width="108" height="58"/>
+                                                            <subviews>
+                                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="2Rb-B5-uD1">
+                                                                    <rect key="frame" x="29" y="0.0" width="50" height="50"/>
+                                                                    <color key="tintColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                </imageView>
+                                                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hvy-oY-PRk">
+                                                                    <rect key="frame" x="54" y="58" width="0.0" height="0.0"/>
+                                                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                                                    <color key="textColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                                    <nil key="highlightedColor"/>
+                                                                </label>
+                                                            </subviews>
+                                                        </stackView>
+                                                    </subviews>
+                                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <constraints>
+                                                        <constraint firstItem="F33-b9-9Vl" firstAttribute="leading" secondItem="E4Y-I9-XWD" secondAttribute="leading" constant="10" id="6kq-sL-8vt"/>
+                                                        <constraint firstItem="F33-b9-9Vl" firstAttribute="centerX" secondItem="E4Y-I9-XWD" secondAttribute="centerX" id="D8t-8Y-Sbi"/>
+                                                        <constraint firstItem="F33-b9-9Vl" firstAttribute="centerY" secondItem="E4Y-I9-XWD" secondAttribute="centerY" id="TGy-Zh-6Ai"/>
+                                                        <constraint firstAttribute="trailing" secondItem="F33-b9-9Vl" secondAttribute="trailing" constant="10" id="wQv-hR-ZvA"/>
+                                                    </constraints>
+                                                </view>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstAttribute="trailing" secondItem="E4Y-I9-XWD" secondAttribute="trailing" id="JxY-Pd-oOF"/>
+                                                <constraint firstItem="E4Y-I9-XWD" firstAttribute="leading" secondItem="DGw-B8-aQw" secondAttribute="leading" id="Tbd-vG-Tjz"/>
+                                                <constraint firstItem="E4Y-I9-XWD" firstAttribute="top" secondItem="DGw-B8-aQw" secondAttribute="top" id="UG1-Ay-zq9"/>
+                                                <constraint firstAttribute="bottom" secondItem="E4Y-I9-XWD" secondAttribute="bottom" id="d1G-bn-ixP"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <connections>
+                                            <outlet property="baseView" destination="E4Y-I9-XWD" id="jdk-JC-Uev"/>
+                                            <outlet property="reasonImageView" destination="2Rb-B5-uD1" id="7gX-OB-YvE"/>
+                                            <outlet property="reasonLabel" destination="hvy-oY-PRk" id="J3j-po-Tss"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="footerViewCell" id="Wf5-M2-19S" customClass="FooterViewCell" customModule="Broccoli" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="226" width="414" height="233"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="u0k-Ee-yur">
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="233"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <subviews>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gZb-Wl-Iy4">
+                                                    <rect key="frame" x="22" y="0.0" width="370" height="45"/>
+                                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="height" constant="45" id="b1n-0a-4eL"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                                    <state key="normal" title="Other">
+                                                        <color key="titleColor" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                    </state>
+                                                    <connections>
+                                                        <action selector="clickToOtherView:" destination="Wf5-M2-19S" eventType="touchUpInside" id="0Xe-78-tqi"/>
+                                                    </connections>
+                                                </button>
+                                                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zfP-e4-XuB">
+                                                    <rect key="frame" x="22" y="45" width="370" height="93"/>
+                                                    <subviews>
+                                                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Other" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m7p-Rr-yNm">
+                                                            <rect key="frame" x="11" y="11" width="348" height="17.5"/>
+                                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                            <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                                            <nil key="textColor"/>
+                                                            <nil key="highlightedColor"/>
+                                                        </label>
+                                                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Cvn-Ta-uNy">
+                                                            <rect key="frame" x="11" y="32.5" width="348" height="60.5"/>
+                                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                            <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                            <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                                                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                                                            <userDefinedRuntimeAttributes>
+                                                                <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Please explain exit reason"/>
+                                                                <userDefinedRuntimeAttribute type="color" keyPath="placeholderColor">
+                                                                    <color key="value" red="0.40000000000000002" green="0.40000000000000002" blue="0.40000000000000002" alpha="1" colorSpace="calibratedRGB"/>
+                                                                </userDefinedRuntimeAttribute>
+                                                            </userDefinedRuntimeAttributes>
+                                                        </textView>
+                                                    </subviews>
+                                                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="bottom" secondItem="Cvn-Ta-uNy" secondAttribute="bottom" id="0AA-Y5-LBe"/>
+                                                        <constraint firstItem="Cvn-Ta-uNy" firstAttribute="leading" secondItem="zfP-e4-XuB" secondAttribute="leading" constant="11" id="Knp-ZJ-kP0"/>
+                                                        <constraint firstItem="m7p-Rr-yNm" firstAttribute="leading" secondItem="zfP-e4-XuB" secondAttribute="leading" constant="11" id="cIR-Sy-KUX"/>
+                                                        <constraint firstAttribute="trailing" secondItem="m7p-Rr-yNm" secondAttribute="trailing" constant="11" id="jyY-Nl-Drx"/>
+                                                        <constraint firstAttribute="trailing" secondItem="Cvn-Ta-uNy" secondAttribute="trailing" constant="11" id="mNF-nD-7jP"/>
+                                                        <constraint firstAttribute="height" constant="93" id="mXT-1g-Tqk"/>
+                                                        <constraint firstItem="m7p-Rr-yNm" firstAttribute="top" secondItem="zfP-e4-XuB" secondAttribute="top" constant="11" id="sKE-0X-mD6"/>
+                                                        <constraint firstItem="Cvn-Ta-uNy" firstAttribute="top" secondItem="m7p-Rr-yNm" secondAttribute="bottom" constant="4" id="ueg-zL-MeT"/>
+                                                    </constraints>
+                                                </view>
+                                                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="x6T-cz-POS">
+                                                    <rect key="frame" x="119.5" y="176" width="175" height="40"/>
+                                                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                    <constraints>
+                                                        <constraint firstAttribute="width" constant="175" id="0AK-I6-hKC"/>
+                                                        <constraint firstAttribute="height" constant="40" id="mzS-BA-kpW"/>
+                                                    </constraints>
+                                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                                                    <state key="normal" title="Exit"/>
+                                                    <userDefinedRuntimeAttributes>
+                                                        <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                                                            <integer key="value" value="3"/>
+                                                        </userDefinedRuntimeAttribute>
+                                                    </userDefinedRuntimeAttributes>
+                                                    <connections>
+                                                        <action selector="clickToExit:" destination="Wf5-M2-19S" eventType="touchUpInside" id="1Ac-c8-2Y0"/>
+                                                    </connections>
+                                                </button>
+                                            </subviews>
+                                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            <constraints>
+                                                <constraint firstItem="gZb-Wl-Iy4" firstAttribute="top" secondItem="u0k-Ee-yur" secondAttribute="top" id="C0D-Ij-2CY"/>
+                                                <constraint firstItem="zfP-e4-XuB" firstAttribute="leading" secondItem="u0k-Ee-yur" secondAttribute="leading" constant="22" id="GN9-nf-5j1"/>
+                                                <constraint firstItem="gZb-Wl-Iy4" firstAttribute="leading" secondItem="u0k-Ee-yur" secondAttribute="leading" constant="22" id="OF6-ss-jIo"/>
+                                                <constraint firstItem="zfP-e4-XuB" firstAttribute="top" secondItem="gZb-Wl-Iy4" secondAttribute="bottom" id="PiR-Ot-DNd"/>
+                                                <constraint firstItem="x6T-cz-POS" firstAttribute="top" secondItem="zfP-e4-XuB" secondAttribute="bottom" constant="38" id="XQR-17-B20"/>
+                                                <constraint firstAttribute="trailing" secondItem="zfP-e4-XuB" secondAttribute="trailing" constant="22" id="aHp-oG-vHT"/>
+                                                <constraint firstItem="x6T-cz-POS" firstAttribute="centerX" secondItem="zfP-e4-XuB" secondAttribute="centerX" id="qwp-tD-JQf"/>
+                                                <constraint firstAttribute="trailing" secondItem="gZb-Wl-Iy4" secondAttribute="trailing" constant="22" id="uPZ-1Z-2lz"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <size key="customSize" width="414" height="233"/>
+                                        <connections>
+                                            <outlet property="OtherButton" destination="gZb-Wl-Iy4" id="JDs-t5-ApL"/>
+                                            <outlet property="OtherReasonTextView" destination="Cvn-Ta-uNy" id="2rs-Lh-TIC"/>
+                                            <outlet property="OtherView" destination="zfP-e4-XuB" id="JZz-fI-KDz"/>
+                                            <outlet property="exitButton" destination="x6T-cz-POS" id="Anl-oV-Spn"/>
+                                            <outlet property="otherText" destination="m7p-Rr-yNm" id="v0N-tD-2vq"/>
+                                            <outlet property="otherViewHeight" destination="b1n-0a-4eL" id="gZe-UW-Zr7"/>
+                                            <outlet property="textViewHeight" destination="mXT-1g-Tqk" id="sX9-xY-594"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="BKN-33-A9b"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="GqJ-Cb-Rwi" secondAttribute="bottom" id="AMw-zZ-QSN"/>
+                            <constraint firstItem="GqJ-Cb-Rwi" firstAttribute="leading" secondItem="BKN-33-A9b" secondAttribute="leading" id="Tei-1g-ekn"/>
+                            <constraint firstItem="GqJ-Cb-Rwi" firstAttribute="trailing" secondItem="BKN-33-A9b" secondAttribute="trailing" id="pVj-Xx-poq"/>
+                            <constraint firstItem="GqJ-Cb-Rwi" firstAttribute="top" secondItem="gg8-CO-cro" secondAttribute="top" id="uIS-NV-Uhx"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="collection" destination="GqJ-Cb-Rwi" id="vbB-2q-Gzi"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="CSE-Cm-a5l" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140.57971014492756" y="60.9375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

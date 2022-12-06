@@ -1,0 +1,152 @@
+[
+    {
+        "intro_text": {
+            "en": "The basic stuff is often the most important- Lets get to know each other. Tell us a little more about yourself so we can find you the best tasks."
+        },
+        "label": {
+            "en": "Basic Demographics"
+        },
+        "order": 0,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/demographics-white-120px.png"
+        },
+        "ref": "basic",
+        "source": "basic.json",
+        "uid": "98076de2e6504e3b8f9b59853a04c890"
+    },
+    {
+        "intro_text": {
+            "en": "Finding out the unusual stuff allows us to connect you to the right offers! Some of these questions might seem strange but they will definitely help you get rewarded quicker! "
+        },
+        "label": {
+            "en": "Extended Demographics"
+        },
+        "order": 1,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/demographics-2-white-120px.png"
+        },
+        "ref": "extended",
+        "source": "extended.json",
+        "uid": "fd6b7f8b7ffa4f23acdf162a0f819fef"
+    },
+    {
+        "intro_text": {
+            "en": "They say you can tell a lot about a person by the car they drive! Lets see if that’s true."
+        },
+        "label": {
+            "en": "Automotive"
+        },
+        "order": 2,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/automotive-white-120px.png"
+        },
+        "ref": "automotive",
+        "source": "automotive.json",
+        "uid": "5a751f0e0d62419590a4ba991fab7016"
+    },
+    {
+        "intro_text": {
+            "en": "Understanding how you deal with your finances is hugely beneficial to brands and to public policy makers."
+        },
+        "label": {
+            "en": "Banking & Investing"
+        },
+        "order": 3,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/banking-white-120px.png"
+        },
+        "ref": "banking_investing",
+        "source": "banking_investing.json",
+        "uid": "ba68f7eb18984beb830fc01536084b85"
+    },
+    {
+        "intro_text": {
+            "en": "What do you know about the company you work for? What kind of decisions do you make at work."
+        },
+        "label": {
+            "en": "Business & Finance"
+        },
+        "order": 4,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/business-white-120px.png"
+        },
+        "ref": "business_finance",
+        "source": "business_finance.json",
+        "uid": "6855844ec5a34e6e8ec40f08bc0a333a"
+    },
+    {
+        "intro_text": {
+            "en": "What you watch and listen to helps program makers do a better job- Show Me the Money!"
+        },
+        "label": {
+            "en": "Media Consumption"
+        },
+        "order": 5,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/media-white-120px.png"
+        },
+        "ref": "media_consumption",
+        "source": "media_consumption.json",
+        "uid": "88a5f2ce94424a5f893c95f933956209"
+    },
+    {
+        "intro_text": {
+            "en": "The world around us changes so quickly – we’d love to know how important technology is in your life!"
+        },
+        "label": {
+            "en": "Technology"
+        },
+        "order": 6,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/technology-white-120px.png"
+        },
+        "ref": "technology",
+        "source": "technology.json",
+        "uid": "a97e5b1ee29a4f3f8c033be7cd8f1449"
+    },
+    {
+        "intro_text": {
+            "en": "It's an app world. What apps do you have on your smartphone?"
+        },
+        "label": {
+            "en": "Apps"
+        },
+        "order": 7,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/apps-white-120px.png"
+        },
+        "ref": "apps",
+        "source": "apps.json",
+        "uid": "385a8311a7d741db8f26146d120409bd"
+    },
+    {
+        "intro_text": {
+            "en": "Was Pac-Man the greatest video game of all time? Let us know how you feel about video games."
+        },
+        "label": {
+            "en": "Video Games"
+        },
+        "order": 8,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/gaming-white-120px.png"
+        },
+        "ref": "gaming",
+        "source": "gaming.json",
+        "uid": "33c42b6c2d4d44ebbdd479b9918cb815"
+    },
+    {
+        "intro_text": {
+            "en": "Whether it's watching football or knitting, everyone has their favourite hobby and leisure activity."
+        },
+        "label": {
+            "en": "Leisure & Hobbies"
+        },
+        "order": 9,
+        "preferred_icon": {
+            "white_png_120px": "https://measure-static.s3.amazonaws.com/category-icons/leisure-hiking-white-120px.png"
+        },
+        "ref": "leisure_hobbies",
+        "source": "leisure_hobbies.json",
+        "uid": "5ce79dcd3a7d40878f5753e8469da01d"
+    }
+]

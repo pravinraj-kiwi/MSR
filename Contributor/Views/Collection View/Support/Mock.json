@@ -1,0 +1,134 @@
+[{
+        "category_ref": "basic",
+        "choices": [{
+                "label": "Female",
+                "standalone_label": "Female",
+                "value": "female"
+            },
+            {
+                "label": "Male",
+                "standalone_label": "Male",
+                "value": "male"
+            },
+            {
+                "label": "Non-binary",
+                "standalone_label": "Non-binary",
+                "value": "non_binary"
+            }
+        ],
+        "label": "Gender",
+        "priority": 10,
+        "ref": "gender"
+    },
+    {
+        "category_ref": "extended",
+        "choices": [{
+                "label": "In a relationship",
+                "standalone_label": "In a relationship",
+                "value": "In_relationship"
+            },
+            {
+                "label": "Domestic Partners/Common Law",
+                "standalone_label": "Common Law",
+                "value": "common_law"
+            },
+            {
+                "label": "Engaged",
+                "standalone_label": "Engaged",
+                "value": "engaged"
+            },
+            {
+                "label": "Married",
+                "standalone_label": "Married",
+                "value": "married"
+            },
+            {
+                "label": "Single",
+                "standalone_label": "Single",
+                "value": "single"
+            }
+        ],
+        "label": "Relationship status",
+        "priority": 9,
+        "ref": "relation_status"
+    },
+    {
+        "category_ref": "gaming",
+        "choices": [{
+                "label": "Android Phone",
+                "standalone_label": "Android Gamer",
+                "value": "android"
+            },
+            {
+                "label": "iPhone",
+                "standalone_label": "iPhone Gamer",
+                "value": "iphone"
+            },
+            {
+                "label": "Nintendo DS",
+                "standalone_label": "DS Gamer",
+                "value": "nintendo_ds"
+            },
+            {
+                "label": "Nintendo Switch",
+                "standalone_label": "Switch Gamer",
+                "value": "nintendo_switch"
+            },
+            {
+                "label": "PC/Mac",
+                "standalone_label": "PC/Mac Gamer",
+                "value": "pc-mac"
+            },
+            {
+                "label": "Playstation Vita",
+                "standalone_label": "Vita Gamer",
+                "value": "playstation_vita"
+            },
+            {
+                "label": "Playstation 4",
+                "standalone_label": "PS4 Gamer",
+                "value": "ps4"
+            },
+            {
+                "label": "Tablet (e.g. iPad, Samsung Galaxy Pad)",
+                "standalone_label": "Tablet Gamer",
+                "value": "tablet"
+            },
+            {
+                "label": "Xbox One",
+                "standalone_label": "Xbox One Gamer",
+                "value": "xbox_one"
+            }
+        ],
+        "label": "Video Game Device Played Weekly",
+        "priority": 8,
+        "ref": "video_game_device_weekly"
+    },
+    {
+        "category_ref": "extended",
+        "choices": [{
+                "label": "Conservative",
+                "standalone_label": "Conservative",
+                "value": "conservative"
+            },
+            {
+                "label": "Liberal",
+                "standalone_label": "Liberal",
+                "value": "liberal"
+            },
+            {
+                "label": "Moderate",
+                "standalone_label": "Moderate",
+                "value": "moderate"
+            },
+            {
+                "label": "Nonpartisan",
+                "standalone_label": "Nonpartisan",
+                "value": "nonpartisan"
+            }
+        ],
+        "label": "Political Views",
+        "priority": 7,
+        "ref": "political_views"
+    }
+]

@@ -1,0 +1,2057 @@
+[
+    {
+        "id": "GQD8PSTPW669",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "All Bar One",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ABO/ABO-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "T68XY0BV6GLH",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Amazon.co.uk",
+        "skus": [
+            {
+                "min": 1,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://d30s7yzk2az89n.cloudfront.net/images/brands/b644898-1200w-326ppi.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "PLZ0L3G41SFP",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "App Store & iTunes",
+        "skus": [
+            {
+                "min": 5,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ITN/ITN-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "Z88EGMSRRFK4",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Argos",
+        "skus": [
+            {
+                "min": 5,
+                "max": 100
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ARGOS/ARGOS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "ZE43LIIZ9B8J",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "ASOS Corporate",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 15,
+                "max": 15
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 75,
+                "max": 75
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ASOS/ASOS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "ZPS6VX4P9WT6",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "B&Q",
+        "skus": [
+            {
+                "min": 5,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/BAQ/BAQ-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "JXWDR6H0TZSU",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Blackwells",
+        "skus": [
+            {
+                "min": 10,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/BLKW/BLKW-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "D3Q6W3DZQTTZ",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Bloom & Wild",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 30,
+                "max": 30
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/BAW/BAW-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "TEWBVVCCLMGB",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Bonmarché",
+        "skus": [
+            {
+                "min": 5,
+                "max": 300
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/BON/BON-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "YMDFMDVLMJCS",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Browns",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/BRNS/BRNS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "YXXFIV4GQX3D",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Caffè Nero",
+        "skus": [
+            {
+                "min": 5,
+                "max": 100
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/NERO/NERO-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "XZZB8H4KD4CE",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Champneys",
+        "skus": [
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            },
+            {
+                "min": 750,
+                "max": 750
+            },
+            {
+                "min": 1000,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/CHAMP/CHAMP-card.png"
+        },
+        "available_amounts_lcy": [
+            25,
+            50
+        ]
+    },
+    {
+        "id": "QRPQME2W359Q",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Chef & Brewer",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/CAB/CAB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "SQN8NHBL1ERU",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Cineworld",
+        "skus": [
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/CINE/CINE-card.png"
+        },
+        "available_amounts_lcy": [
+            10
+        ]
+    },
+    {
+        "id": "YUH5W3DPIJ7A",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Clarks",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/CLRKS/CLRKS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "VZN0KGZXZ4LI",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Costa",
+        "skus": [
+            {
+                "min": 1,
+                "max": 150
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/COSTA/COSTA-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "UMQFJO2HEIFS",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Crown Carveries",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/CCVY/CCVY-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "ZJVXUZCK2Y5N",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Currys PC World",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/DIX/DIX-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "X2SVTUR86HBR",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Debenhams",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/DEB/DEB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "P6OM0N2K4GPJ",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Debenhams Ireland",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/DEB/DEB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "1IH82VRBJ1U4",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Decathlon GB",
+        "skus": [
+            {
+                "min": 1,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/DECA/DECA-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "63A219OHRFSY",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Eating Inn",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/EATI/EATI-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "SGAM8G07WQD9",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Ember Inns",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/EINS/EINS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "42R0ZT0ATQKP",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Ernest Jones",
+        "skus": [
+            {
+                "min": 5,
+                "max": 2500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ERJO/ERJO-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "UXNCTZ39YP08",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Evans Cycles",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/EVANS/EVANS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "NS2FVSNT8WSH",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Farmhouse Inns",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/FARM/FARM-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "UITX4RHGL9LP",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Fayre & Square",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/FAYS/FAYS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "V00X3MEI7MD2",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Flaming Grill",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/FLGR/FLGR-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "J6VXPIK9O6EC",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Global Hotel Card GB",
+        "skus": [
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/GHC/GHC-card.png"
+        },
+        "available_amounts_lcy": [
+            50
+        ]
+    },
+    {
+        "id": "FE08WDV8297C",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Good Night Inns",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/GNI/GNI-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "TV4B990V0XC5",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Google Play",
+        "skus": [
+            {
+                "min": 1,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/PLAY/PLAY-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "9JSTUR2DVFHZ",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Great British Pub Card",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/GBPC/GBPC-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "2DGB7GBISUB2",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Greene King",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/GRK/GRK-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "RXO876CVYSBB",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "H. Samuel",
+        "skus": [
+            {
+                "min": 5,
+                "max": 2500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/HSAM/HSAM-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "JJP7M2DC7PQG",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Halfords",
+        "skus": [
+            {
+                "min": 1,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/HAL/HAL-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "TOVJQ0CFTDB1",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Harvester",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/HARV/HARV-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "CF4A33ZDZ39F",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Hotel Voucher Shop",
+        "skus": [
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/HVS/HVS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "1OFUFNFZE69P",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Hungry Horse",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/HGRY/HGRY-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "CWWKKLEBBKDN",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Inspire TravelCard",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/INSP/INSP-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "GDA91QSZ0RR5",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "John Lewis eGift",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 15,
+                "max": 15
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 30,
+                "max": 30
+            },
+            {
+                "min": 35,
+                "max": 35
+            },
+            {
+                "min": 40,
+                "max": 40
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 60,
+                "max": 60
+            },
+            {
+                "min": 70,
+                "max": 70
+            },
+            {
+                "min": 75,
+                "max": 75
+            },
+            {
+                "min": 80,
+                "max": 80
+            },
+            {
+                "min": 90,
+                "max": 90
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 110,
+                "max": 110
+            },
+            {
+                "min": 120,
+                "max": 120
+            },
+            {
+                "min": 130,
+                "max": 130
+            },
+            {
+                "min": 140,
+                "max": 140
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/JLSEG/JLSEG-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "6DZEQ95NA05G",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "L.K. Bennett",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/LKB/LKB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "WW4WVIXR66E5",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Laithwaite's",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/LTHW/LTHW-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "MQY6UKY79QOH",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Loch Fyne",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/LOFY/LOFY-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "N00DA3O4SOLS",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Marks and Spencer",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 15,
+                "max": 15
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 30,
+                "max": 30
+            },
+            {
+                "min": 35,
+                "max": 35
+            },
+            {
+                "min": 40,
+                "max": 40
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 60,
+                "max": 60
+            },
+            {
+                "min": 70,
+                "max": 70
+            },
+            {
+                "min": 75,
+                "max": 75
+            },
+            {
+                "min": 80,
+                "max": 80
+            },
+            {
+                "min": 90,
+                "max": 90
+            },
+            {
+                "min": 95,
+                "max": 95
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 110,
+                "max": 110
+            },
+            {
+                "min": 120,
+                "max": 120
+            },
+            {
+                "min": 130,
+                "max": 130
+            },
+            {
+                "min": 140,
+                "max": 140
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/MAS/MAS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "CUYRM05H6KBE",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Mastercard® GBP",
+        "skus": [
+            {
+                "min": 5,
+                "max": 750
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://d30s7yzk2az89n.cloudfront.net/images/brands/b082438-1200w-326ppi.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "N18TJ2UX0F2W",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Miller and Carter",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/MAC/MAC-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "AI3TUH69DOAZ",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Mitchells & Butlers",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/MAB/MAB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "SZFCW9N66SA5",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Mococo Jewellery",
+        "skus": [
+            {
+                "min": 10,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/MOCO/MOCO-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "OUX58FPHXJFA",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Mothercare GB",
+        "skus": [
+            {
+                "min": 1,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/MCARE/MCARE-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "V7XY1YASFU1S",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "New Look GB",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/NLK/NLK-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "1Y7N7ZL9HSQ3",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Nicholsons",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/NICS/NICS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "JUC0LNL0KEEC",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Nike",
+        "skus": [
+            {
+                "min": 5,
+                "max": 400
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/NIKE/NIKE-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "GOBSAPWH6NLZ",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Old English",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/OLDE/OLDE-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "MDQOUVQHI47N",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Pizza Express",
+        "skus": [
+            {
+                "min": 5,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/PX/PX-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "8E2UTMFCL4OF",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Sizzling Pubs",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/SIZP/SIZP-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "NT38KWUORS0W",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Swarovski",
+        "skus": [
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/SWAR/SWAR-card.png"
+        },
+        "available_amounts_lcy": [
+            25,
+            50
+        ]
+    },
+    {
+        "id": "SWVCANOY23S2",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Ted Baker",
+        "skus": [
+            {
+                "min": 10,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TEDB/TEDB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "0OG5QG3T493N",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Tesco",
+        "skus": [
+            {
+                "min": 1,
+                "max": 200
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TESCO/TESCO-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "XLU7XMC6IXPD",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "The Entertainer",
+        "skus": [
+            {
+                "min": 5,
+                "max": 300
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TENT/TENT-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "LVWIYY04ZP4H",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "The White Company",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TWC/TWC-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "36YNL48DKNI8",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Ticketmaster GB",
+        "skus": [
+            {
+                "min": 1,
+                "max": 5000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TKM/TKM-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "89ZEKVQ1MQU1",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Toby Carvery",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/TCVY/TCVY-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "OFVG0L3RKEOI",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Uber",
+        "skus": [
+            {
+                "min": 15,
+                "max": 150
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/UBER/UBER-card.png"
+        },
+        "available_amounts_lcy": [
+            25,
+            50
+        ]
+    },
+    {
+        "id": "G258QQCFFP0M",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Uber Eats",
+        "skus": [
+            {
+                "min": 15,
+                "max": 150
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/UEATS-GB/UEATS-GB-card.png"
+        },
+        "available_amounts_lcy": [
+            25,
+            50
+        ]
+    },
+    {
+        "id": "CPG16A5VSWSH",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Vintage Inns",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/VINS/VINS-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "OTWYCZKEZ1PA",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Wacky Warehouse",
+        "skus": [
+            {
+                "min": 5,
+                "max": 250
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/WAWA/WAWA-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "LA354MUG7A6K",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Wagamama",
+        "skus": [
+            {
+                "min": 5,
+                "max": 5
+            },
+            {
+                "min": 10,
+                "max": 10
+            },
+            {
+                "min": 20,
+                "max": 20
+            },
+            {
+                "min": 25,
+                "max": 25
+            },
+            {
+                "min": 50,
+                "max": 50
+            },
+            {
+                "min": 75,
+                "max": 75
+            },
+            {
+                "min": 100,
+                "max": 100
+            },
+            {
+                "min": 150,
+                "max": 150
+            },
+            {
+                "min": 200,
+                "max": 200
+            },
+            {
+                "min": 250,
+                "max": 250
+            },
+            {
+                "min": 500,
+                "max": 500
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/WAGA/WAGA-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "79OTJDZIX3AC",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Zalando GB",
+        "skus": [
+            {
+                "min": 5,
+                "max": 300
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ZAL/ZAL-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    },
+    {
+        "id": "9JHD7ZIZ92AK",
+        "category": "merchant_cards",
+        "countries": [
+            "GB"
+        ],
+        "name": "Zeek Choice",
+        "skus": [
+            {
+                "min": 1,
+                "max": 1000
+            }
+        ],
+        "country": null,
+        "images": {
+            "card": "https://gift.wegift.io/static/product_assets/ZEEK-GB/ZEEK-GB-card.png"
+        },
+        "available_amounts_lcy": [
+            10,
+            25,
+            50
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "community_id": 3,
+    "name": "AskingCanadians",
+    "slug": "ac",
+    "color_properties": {
+        "intro_screen_background": "#D9272E",
+        "intro_screen_text": "#FFFFFF",
+        "intro_screen_button": "#FFFFFF",
+        "intro_screen_button_text": "#D9272E",
+        "primary": "#2591C8",
+        "pill": "#2591C8"
+    },
+    "text_properties": {
+        "privacy_policy_url": "https://www.askingcanadians.com/communities/default.aspx?p=p430686807&n=1795610795",
+        "terms_of_service_url": "https://www.askingcanadians.com/communities/default.aspx?p=p430686807&n=1795610914",
+        "contact_url": "http://vs1.askingcanadians.com/images/ac/contact.html",
+        "accessibility_url": "https://vs1.askingcanadians.com/images/ac/aoda/AODA_EN.html",
+        "intro_blurb": "This survey may be hosted by one of our partners and may look a little different from our usual surveys. However, as per our strict privacy policy, your responses to survey questions are combined with those of other participants and are tabulated only in the aggregate. Your answers will therefore remain entirely confidential and your identity will always remain anonymous."
+    },
+    "image_properties": {
+        "logo": "https://measure-static.s3.amazonaws.com/app-themes/ac/logo.png",
+        "logo_dark_background": "https://measure-static.s3.amazonaws.com/app-themes/ac/logo_dark_background.png",
+        "logo_intro_screen": "https://measure-static.s3.amazonaws.com/app-themes/ac/logo_dark_background.png",
+        "welcome_card": "https://measure-static.s3.amazonaws.com/app-themes/ac/welcome_card.png"
+    }
+}

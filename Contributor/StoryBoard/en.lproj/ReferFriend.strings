@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "LEAVE A REVIEW"; ObjectID = "Dxh-Du-8rl"; */
+"Dxh-Du-8rl.normalTitle" = "LEAVE A REVIEW";
+
+/* Class = "UILabel"; text = "Refer a friend"; ObjectID = "Gai-Hp-VbH"; */
+"Gai-Hp-VbH.text" = "Refer a friend";
+
+/* Class = "UILabel"; text = "Are you enjoying the MSR app? Let others know how easy it is to monetize their data by leaving a review."; ObjectID = "JUc-HE-XKY"; */
+"JUc-HE-XKY.text" = "Are you enjoying the MSR app? Let others know how easy it is to monetize their data by leaving a review.";
+
+/* Class = "UILabel"; text = "YOUR CODE"; ObjectID = "RhM-hM-4nX"; */
+"RhM-hM-4nX.text" = "YOUR CODE";
+
+/* Class = "UIButton"; normalTitle = "SHARE"; ObjectID = "X0H-NC-Qh7"; */
+"X0H-NC-Qh7.normalTitle" = "SHARE";
+
+/* Class = "UILabel"; text = "Every time your friends complete a task \nyou will be rewarded 20% of what they earn as a bonus on us!"; ObjectID = "e11-f7-yNV"; */
+"e11-f7-yNV.text" = "Every time your friends complete a task \nyou will be rewarded 20% of what they earn as a bonus on us!";
+
+/* Class = "UILabel"; text = "& earn every time they do!"; ObjectID = "lXT-Jw-6o4"; */
+"lXT-Jw-6o4.text" = "& earn every time they do!";
+
+/* Class = "UILabel"; text = "Subject to MSR’s Terms and Conditions"; ObjectID = "oDt-Gi-j0t"; */
+"oDt-Gi-j0t.text" = "Subject to MSR’s Terms and Conditions";

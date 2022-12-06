@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Proxima-Nova-Regular.otf">
+            <string>ProximaNova-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="none" indentationWidth="10" reuseIdentifier="PayPalInputCell" id="KGk-i7-Jjw" customClass="PayPalInputCell" customModule="Broccoli" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="188"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="188"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LSb-Re-3FW" userLabel="borderView">
+                        <rect key="frame" x="12" y="0.0" width="296" height="72"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="2HW-Jl-cMd">
+                                <rect key="frame" x="11" y="13" width="285" height="59"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gT0-0Q-szw">
+                                        <rect key="frame" x="0.0" y="0.0" width="285" height="17.5"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.35686274509803922" green="0.28235294117647058" blue="0.98431372549019602" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <textField opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="example@email.com" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="MD9-KF-ThE">
+                                        <rect key="frame" x="0.0" y="21.5" width="285" height="37.5"/>
+                                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                                        <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="alphabet" returnKeyType="next" enablesReturnKeyAutomatically="YES"/>
+                                    </textField>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="2HW-Jl-cMd" secondAttribute="trailing" id="LkO-kl-ahe"/>
+                            <constraint firstItem="2HW-Jl-cMd" firstAttribute="leading" secondItem="LSb-Re-3FW" secondAttribute="leading" constant="11" id="mQb-nO-wVe"/>
+                            <constraint firstItem="2HW-Jl-cMd" firstAttribute="top" secondItem="LSb-Re-3FW" secondAttribute="top" constant="13" id="twI-A3-L0f"/>
+                            <constraint firstAttribute="bottom" secondItem="2HW-Jl-cMd" secondAttribute="bottom" id="umA-bg-Ome"/>
+                            <constraint firstAttribute="height" constant="72" id="xGK-NJ-MIx"/>
+                        </constraints>
+                    </view>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XcM-xA-jhp" userLabel="borderView">
+                        <rect key="frame" x="12" y="87" width="296" height="72"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="by2-b8-jin">
+                                <rect key="frame" x="11" y="13" width="285" height="59"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kJ7-SH-e32">
+                                        <rect key="frame" x="0.0" y="0.0" width="285" height="17.5"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.35686274509999999" green="0.28235294119999998" blue="0.98431372549999996" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <textField opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="example@email.com" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="vYa-K6-L3o">
+                                        <rect key="frame" x="0.0" y="21.5" width="285" height="37.5"/>
+                                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                                        <textInputTraits key="textInputTraits" autocorrectionType="no" keyboardType="alphabet" returnKeyType="done" enablesReturnKeyAutomatically="YES"/>
+                                    </textField>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="by2-b8-jin" firstAttribute="top" secondItem="XcM-xA-jhp" secondAttribute="top" constant="13" id="2K8-0j-qTi"/>
+                            <constraint firstItem="by2-b8-jin" firstAttribute="leading" secondItem="XcM-xA-jhp" secondAttribute="leading" constant="11" id="NjT-2k-SUY"/>
+                            <constraint firstAttribute="height" constant="72" id="Q8c-Cv-7a8"/>
+                            <constraint firstAttribute="bottom" secondItem="by2-b8-jin" secondAttribute="bottom" id="SZR-r1-SCV"/>
+                            <constraint firstAttribute="trailing" secondItem="by2-b8-jin" secondAttribute="trailing" id="iNP-Pc-XVf"/>
+                        </constraints>
+                    </view>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="ovs-xg-EHJ">
+                        <rect key="frame" x="12" y="159" width="296" height="29"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="sjkdhasjkdhsjkfdhjhsdffdsfsdfdfdfsdfsfsdffsfdsffsdfsdfdsfdsfsfdsfdffdsfdfdsfdsfdsfdsfdfdsfsdfdsfdsfdsfds" textAlignment="natural" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TpI-Wf-cfD">
+                                <rect key="frame" x="0.0" y="0.0" width="296" height="29"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                <color key="textColor" red="1" green="0.23137254900000001" blue="0.18823529410000001" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="29" id="3I0-7Q-XXn"/>
+                        </constraints>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="ovs-xg-EHJ" firstAttribute="trailing" secondItem="LSb-Re-3FW" secondAttribute="trailing" id="1oN-ZD-1ii"/>
+                    <constraint firstItem="LSb-Re-3FW" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="4cH-o3-4qY"/>
+                    <constraint firstItem="LSb-Re-3FW" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="A4W-Sb-vOU"/>
+                    <constraint firstAttribute="trailing" secondItem="LSb-Re-3FW" secondAttribute="trailing" constant="12" id="BLt-Ii-2pP"/>
+                    <constraint firstItem="ovs-xg-EHJ" firstAttribute="leading" secondItem="LSb-Re-3FW" secondAttribute="leading" id="HcB-mc-W6G"/>
+                    <constraint firstAttribute="bottom" secondItem="ovs-xg-EHJ" secondAttribute="bottom" id="KSD-f7-YcP"/>
+                    <constraint firstItem="ovs-xg-EHJ" firstAttribute="top" secondItem="XcM-xA-jhp" secondAttribute="bottom" id="ViX-Wo-wCk"/>
+                    <constraint firstItem="XcM-xA-jhp" firstAttribute="leading" secondItem="LSb-Re-3FW" secondAttribute="leading" id="sQR-yI-2L3"/>
+                    <constraint firstItem="XcM-xA-jhp" firstAttribute="top" secondItem="LSb-Re-3FW" secondAttribute="bottom" constant="15" id="sm9-wN-Y6a"/>
+                    <constraint firstItem="XcM-xA-jhp" firstAttribute="trailing" secondItem="LSb-Re-3FW" secondAttribute="trailing" id="vEw-FO-L4V"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="borderView" destination="LSb-Re-3FW" id="be1-bt-f2X"/>
+                <outlet property="borderView1" destination="XcM-xA-jhp" id="3iG-4Z-EcO"/>
+                <outlet property="errorLabel" destination="TpI-Wf-cfD" id="lVx-Wp-vIx"/>
+                <outlet property="formTextField" destination="MD9-KF-ThE" id="8c5-Ue-VKy"/>
+                <outlet property="formTextField1" destination="vYa-K6-L3o" id="wX4-1G-PHS"/>
+                <outlet property="placeHolder1" destination="kJ7-SH-e32" id="2Iz-Fk-FQn"/>
+                <outlet property="placeHolderText" destination="gT0-0Q-szw" id="q5F-6o-CnD"/>
+            </connections>
+            <point key="canvasLocation" x="77" y="75"/>
+        </tableViewCell>
+    </objects>
+</document>

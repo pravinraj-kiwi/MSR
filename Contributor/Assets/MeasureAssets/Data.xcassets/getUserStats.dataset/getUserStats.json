@@ -1,0 +1,21 @@
+{
+    "total_earnings_msr": null,
+    "total_offered_jobs": 5,
+    "total_completed_jobs": 0,
+    "previous_day_offered_jobs": 0,
+    "previous_2_days_offered_jobs": 0,
+    "previous_3_days_offered_jobs": 2,
+    "previous_7_days_offered_jobs": 5,
+    "previous_30_days_offered_jobs": 5,
+    "previous_day_completed_jobs": 0,
+    "previous_2_days_completed_jobs": 0,
+    "previous_3_days_completed_jobs": 0,
+    "previous_7_days_completed_jobs": 0,
+    "previous_30_days_completed_jobs": 0,
+    "offers_finished_within_2_hours": 0,
+    "offers_finished_within_1_day": 0,
+    "offers_finished_within_2_days": 0,
+    "offers_finished_within_3_days": 0,
+    "offers_finished_within_7_days": 0,
+    "offers_finished_within_30_days": 0
+}

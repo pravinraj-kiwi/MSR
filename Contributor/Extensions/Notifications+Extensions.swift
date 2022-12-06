@@ -1,0 +1,67 @@
+//
+//  Notifications+Extensions.swift
+//  Contributor
+//
+//  Created by arvindh on 28/08/18.
+//  Copyright © 2018 Measure. All rights reserved.
+//
+
+import Foundation
+
+public extension Notification.Name {
+  static let deepLinkCommunityFound = Notification.Name(rawValue: "deepLinkCommunityFound")
+  static let deepLinkCommunityNotFound = Notification.Name(rawValue: "deepLinkCommunityNotFound")
+  static let onboardTemplateFound = Notification.Name(rawValue: "onboardTemplateFound")
+  static let deepLinkCommunityLoaded = Notification.Name(rawValue: "deepLinkCommunityLoaded")
+  static let communityThemeApplied = Notification.Name(rawValue: "configApplied")
+  static let userChanged = Notification.Name(rawValue: "userChanged")
+  static let balanceChanged = Notification.Name(rawValue: "balanceChanged")
+  static let awsNetworkError = Notification.Name(rawValue: "awsNetworkError")
+  static let connectingAppStatusChanged = Notification.Name(rawValue: "connectingAppStatusChanged")
+  static let connectingAppSuccess = Notification.Name(rawValue: "connectingAppSuccess")
+  static let profileSurveyFinished = Notification.Name(rawValue: "profileSurveyFinished")
+  static let externalSurveyFinished = Notification.Name(rawValue: "externalSurveyFinished")
+  static let initialSurveyStart = Notification.Name(rawValue: "initialSurveyStart")
+  static let moveBackwardSurveyPage = Notification.Name(rawValue: "moveBackwardSurveyPage")
+  static let dismissSurveyPage = Notification.Name(rawValue: "dismissSurveyPage")
+  static let profileUpdated = Notification.Name(rawValue: "profileUpdated")
+  static let paymentReceived = Notification.Name(rawValue: "paymentReceived")
+  static let paymentDetail = Notification.Name(rawValue: "paymentDetail")
+  static let updatedFeedOnServer = Notification.Name(rawValue: "updatedFeedOnServer")
+  static let feedChanged = Notification.Name(rawValue: "feedChanged")
+  static let feedDidAppear = Notification.Name(rawValue: "feedDidAppear")
+  static let manualFeedRefresh = Notification.Name(rawValue: "manualFeedRefresh")
+  static let feedLikelyToChangeSoon = Notification.Name(rawValue: "feedLikelyToChangeSoon")
+  static let offerDeclined = Notification.Name(rawValue: "offerDeclined")
+  static let offerCompleted = Notification.Name(rawValue: "offerCompleted")
+  static let giftCardRedeemed = Notification.Name(rawValue: "giftCardRedeemed")
+  static let willFetchSurvey = Notification.Name(rawValue: "willFetchSurvey")
+  static let didFetchSurvey = Notification.Name(rawValue: "didFetchSurvey")
+  static let didFailToFetchSurvey = Notification.Name(rawValue: "didFailToFetchSurvey")
+  static let shouldCheckForPendingQualifications = Notification.Name(rawValue: "shouldCheckForPendingQualifications")
+  static let newAppVersion = Notification.Name(rawValue: "newAppVersion")
+  static let didLogin = Notification.Name(rawValue: "didLogin")
+  static let shouldLogout = Notification.Name(rawValue: "shouldLogout")
+  static let signUpFinished = Notification.Name(rawValue: "signUpFinished")
+  static let onboardingFinished = Notification.Name(rawValue: "onboardingFinished")
+  static let exitExternalSurvey = Notification.Name(rawValue: "exitExternalSurvey")
+  static let surveyFinishedRefreshFeed = Notification.Name(rawValue: "surveyFinishedRefreshFeed")
+  static let refreshWebview = Notification.Name(rawValue: "refreshWebview")
+  static let refreshController = Notification.Name(rawValue: "refreshController")
+  static let animateCategory = Notification.Name(rawValue: "animateCategory")
+  static let updateCategory = Notification.Name(rawValue: "updateCategory")
+  static let updateCollectionViewUI = Notification.Name(rawValue: "updateCollectionViewUI")
+  static let updateStats = Notification.Name(rawValue: "updateStats")
+  static let uploadFailed = Notification.Name(rawValue: "uploadFailed")
+  static let hadSeenToolTip = Notification.Name(rawValue: "hadSeenToolTip")
+  static let appGotActive = Notification.Name(rawValue: "appGotActive")
+  static let deeplinkFeedOffer = Notification.Name(rawValue: "deeplinkFeedOffer")
+  static let validationTimeOut = Notification.Name(rawValue: "validationTimeOut")
+  static let updateButton = Notification.Name(rawValue: "updateButton")
+  static let errorUpdateButton = Notification.Name(rawValue: "errorUpdateButton")
+  static let showSupportThankView = Notification.Name(rawValue: "showSupportThankView")
+  static let partnerAlreadyConnected = Notification.Name(rawValue: "partnerAlreadyConnected")
+  static let updateAttributeSection = Notification.Name(rawValue: "updateAttributeSection")
+  static let updateAttributeCell = Notification.Name(rawValue: "updateAttributeCell")
+  static let exitJobFeed = Notification.Name(rawValue: "exitJobFeed")
+}
