@@ -23,7 +23,7 @@ jobs:
       - name: re-pod
         run:  pod deintegrate && pod install  
       - name: fastlane build
-        run: fastlane gym
+        run: fastlane gym --verbose
 
       # upload failure log if fails
       - uses: actions/upload-artifact@v1
