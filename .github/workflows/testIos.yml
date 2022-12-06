@@ -21,9 +21,22 @@ jobs:
 
       - name: install fastlane & plugins
         run: bundle install
-      
-      - name: homebrew & watchman
-        run: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)" && brew update && brew install watchman
+        
+      - name: fastlane build
+        run: fastlane ios adhoc build
 
-      - name: yarn install
-        run: yarn install
+      # upload failure log if fails
+      - uses: actions/upload-artifact@v1
+        name: upload failure fastlane build log
+        if: failure()
+        with:
+          name: App-App.log
+          path: /Users/runner/Library/Logs/gym/App-App.log
+
+      - name: Make Artefact
+        run: |
+          zip artefact.zip App.ipa App.app.dSYM.zip
+      - uses: actions/upload-artifact@v1
+        with:
+          name: artefact.zip
+          path: ./artefact.zip
