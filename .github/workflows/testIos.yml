@@ -21,7 +21,7 @@ jobs:
       - name: fastlane install
         run:  sudo gem install fastlane
       - name: re-pod
-        run: cd ios && pod deintegrate && pod install && cd ..  
+        run:  pod deintegrate && pod install  
       - name: fastlane build
         run: fastlane gym
 
