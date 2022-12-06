@@ -23,7 +23,7 @@ jobs:
         run: bundle install
         
       - name: fastlane build
-        run: fastlane ios adhoc build
+        run: fastlane ios beta
 
       # upload failure log if fails
       - uses: actions/upload-artifact@v1
