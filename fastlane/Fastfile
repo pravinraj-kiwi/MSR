@@ -40,7 +40,7 @@ platform :ios do
     lane :unit_tests do
       scan(
         workspace: "Contributor.xcworkspace",
-        scheme: "ContributorTests",
+        scheme: "Contributor Staging 2",
         devices: ["iPhone 11"]
       )
     end
