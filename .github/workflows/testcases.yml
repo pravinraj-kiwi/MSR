@@ -19,8 +19,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Installing Pods
-        run: pod update  
+     # - name: Installing Pods
+      #  run: pod update  
       - name: Run tests
         run: |
           set -o pipefail
